@@ -1,0 +1,4142 @@
+﻿[
+  {
+    "producer": {
+"identity": 179,
+"labels": [
+        "Producer"
+      ],
+"properties": {
+"volume": 980,
+"role": "Gamma",
+"density": 853.1833245754242,
+"production": 0.011119759813188036,
+"user_id": 7686242,
+"consume_others": 0.1556766373846325,
+"consume": 0.0
+      }
+    },
+    "files": [
+      {
+        "identity": 180,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 5,
+"file_id": 30
+        }
+      }
+    ],
+    "topic": {
+"identity": 2,
+"labels": [
+        "Topic"
+      ],
+"properties": {
+"volume": 5167328,
+"role": "Alpha",
+"topic_id": 17,
+"density": 47838.2333265692
+      }
+    }
+  },
+  {
+    "producer": {
+"identity": 139,
+"labels": [
+        "Producer"
+      ],
+"properties": {
+"volume": 4800,
+"role": "Gamma",
+"density": 1461.5500108599665,
+"production": 0.011119759813188036,
+"user_id": 3052048,
+"consume_others": 0.4447903925275214,
+"consume": 0.022239519626376072
+      }
+    },
+    "files": [
+      {
+        "identity": 140,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 3,
+"file_id": 24
+        }
+      }
+    ],
+    "topic": {
+"identity": 2,
+"labels": [
+        "Topic"
+      ],
+"properties": {
+"volume": 5167328,
+"role": "Alpha",
+"topic_id": 17,
+"density": 47838.2333265692
+      }
+    }
+  },
+  {
+    "producer": {
+"identity": 137,
+"labels": [
+        "Producer"
+      ],
+"properties": {
+"volume": 1800,
+"role": "Gamma",
+"density": 1242.2666654586792,
+"production": 0.011119759813188036,
+"user_id": 4616106,
+"consume_others": 0.33359279439564105,
+"consume": 0.0
+      }
+    },
+    "files": [
+      {
+        "identity": 138,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 2,
+"file_id": 28
+        }
+      }
+    ],
+    "topic": {
+"identity": 2,
+"labels": [
+        "Topic"
+      ],
+"properties": {
+"volume": 5167328,
+"role": "Alpha",
+"topic_id": 17,
+"density": 47838.2333265692
+      }
+    }
+  },
+  {
+    "producer": {
+"identity": 121,
+"labels": [
+        "Producer"
+      ],
+"properties": {
+"volume": 112500,
+"role": "Gamma",
+"density": 10944.966697692873,
+"production": 0.011119759813188036,
+"user_id": 217867189,
+"consume_others": 1.6679639719782051,
+"consume": 0.0
+      }
+    },
+    "files": [
+      {
+        "identity": 122,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 5,
+"file_id": 112
+        }
+      }
+    ],
+    "topic": {
+"identity": 2,
+"labels": [
+        "Topic"
+      ],
+"properties": {
+"volume": 5167328,
+"role": "Alpha",
+"topic_id": 17,
+"density": 47838.2333265692
+      }
+    }
+  },
+  {
+    "producer": {
+"identity": 119,
+"labels": [
+        "Producer"
+      ],
+"properties": {
+"volume": 245,
+"role": "Gamma",
+"density": 198.0000004172325,
+"production": 0.011119759813188036,
+"user_id": 23793248,
+"consume_others": 0.07783831869231625,
+"consume": 0.022239519626376072
+      }
+    },
+    "files": [
+      {
+        "identity": 120,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 5,
+"file_id": 104
+        }
+      }
+    ],
+    "topic": {
+"identity": 2,
+"labels": [
+        "Topic"
+      ],
+"properties": {
+"volume": 5167328,
+"role": "Alpha",
+"topic_id": 17,
+"density": 47838.2333265692
+      }
+    }
+  },
+  {
+    "producer": {
+"identity": 110,
+"labels": [
+        "Producer"
+      ],
+"properties": {
+"volume": 4320000,
+"role": "Beta",
+"density": 43367.48324966432,
+"user_id": 145821237,
+"production": 0.06671855887912821,
+"consume_others": 10.007783831869233,
+"consume": 0.0
+      }
+    },
+    "files": [
+      {
+        "identity": 116,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 6,
+"file_id": 82
+        }
+      },
+      {
+        "identity": 111,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 6,
+"file_id": 101
+        }
+      }
+    ],
+    "topic": {
+"identity": 2,
+"labels": [
+        "Topic"
+      ],
+"properties": {
+"volume": 5167328,
+"role": "Alpha",
+"topic_id": 17,
+"density": 47838.2333265692
+      }
+    }
+  },
+  {
+    "producer": {
+"identity": 105,
+"labels": [
+        "Producer"
+      ],
+"properties": {
+"volume": 314622,
+"role": "Alpha",
+"density": 5794.116654217242,
+"production": 0.022239519626376072,
+"user_id": 144646783,
+"consume_others": 2.568664516846436,
+"consume": 0.0
+      }
+    },
+    "files": [
+      {
+        "identity": 107,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 7,
+"file_id": 9
+        }
+      }
+    ],
+    "topic": {
+"identity": 2,
+"labels": [
+        "Topic"
+      ],
+"properties": {
+"volume": 5167328,
+"role": "Alpha",
+"topic_id": 17,
+"density": 47838.2333265692
+      }
+    }
+  },
+  {
+    "producer": {
+"identity": 67,
+"labels": [
+        "Producer"
+      ],
+"properties": {
+"volume": 8,
+"role": "Gamma",
+"density": 25.29999923706055,
+"production": 0.011119759813188036,
+"user_id": 1987740163,
+"consume_others": 0.011119759813188036,
+"consume": 0.0
+      }
+    },
+    "files": [
+      {
+        "identity": 68,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 8,
+"file_id": 69
+        }
+      }
+    ],
+    "topic": {
+"identity": 2,
+"labels": [
+        "Topic"
+      ],
+"properties": {
+"volume": 5167328,
+"role": "Alpha",
+"topic_id": 17,
+"density": 47838.2333265692
+      }
+    }
+  },
+  {
+    "producer": {
+"identity": 38,
+"labels": [
+        "Producer"
+      ],
+"properties": {
+"volume": 314496,
+"role": "Alpha",
+"density": 11439.333334565164,
+"production": 0.044479039252752144,
+"user_id": 742756569,
+"consume_others": 2.8021794729233847,
+"consume": 0.0
+      }
+    },
+    "files": [
+      {
+        "identity": 41,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 5,
+"file_id": 93
+        }
+      },
+      {
+        "identity": 39,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 6,
+"file_id": 18
+        }
+      }
+    ],
+    "topic": {
+"identity": 2,
+"labels": [
+        "Topic"
+      ],
+"properties": {
+"volume": 5167328,
+"role": "Alpha",
+"topic_id": 17,
+"density": 47838.2333265692
+      }
+    }
+  },
+  {
+    "producer": {
+"identity": 30,
+"labels": [
+        "Producer"
+      ],
+"properties": {
+"volume": 2970,
+"role": "Gamma",
+"density": 1645.7666531801224,
+"production": 0.022239519626376072,
+"user_id": 514663404,
+"consume_others": 0.2446347158901368,
+"consume": 0.0
+      }
+    },
+    "files": [
+      {
+        "identity": 33,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 6,
+"file_id": 73
+        }
+      }
+    ],
+    "topic": {
+"identity": 2,
+"labels": [
+        "Topic"
+      ],
+"properties": {
+"volume": 5167328,
+"role": "Alpha",
+"topic_id": 17,
+"density": 47838.2333265692
+      }
+    }
+  },
+  {
+    "producer": {
+"identity": 17,
+"labels": [
+        "Producer"
+      ],
+"properties": {
+"volume": 170925,
+"role": "Alpha",
+"density": 12164.133327141404,
+"production": 0.022239519626376072,
+"user_id": 301763305,
+"consume_others": 2.3907483598354284,
+"consume": 0.0
+      }
+    },
+    "files": [
+      {
+        "identity": 20,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 4,
+"file_id": 106
+        }
+      }
+    ],
+    "topic": {
+"identity": 2,
+"labels": [
+        "Topic"
+      ],
+"properties": {
+"volume": 5167328,
+"role": "Alpha",
+"topic_id": 17,
+"density": 47838.2333265692
+      }
+    }
+  },
+  {
+    "producer": {
+"identity": 3,
+"labels": [
+        "Producer"
+      ],
+"properties": {
+"volume": 4624,
+"role": "Gamma",
+"density": 28.849999830126762,
+"production": 0.011119759813188036,
+"user_id": 3416684,
+"consume_others": 0.3780718336483932,
+"consume": 0.0
+      }
+    },
+    "files": [
+      {
+        "identity": 4,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 4,
+"file_id": 21
+        }
+      }
+    ],
+    "topic": {
+"identity": 2,
+"labels": [
+        "Topic"
+      ],
+"properties": {
+"volume": 5167328,
+"role": "Alpha",
+"topic_id": 17,
+"density": 47838.2333265692
+      }
+    }
+  },
+  {
+    "producer": {
+"identity": 0,
+"labels": [
+        "Producer"
+      ],
+"properties": {
+"volume": 1764,
+"role": "Gamma",
+"density": 9.966666668653488,
+"production": 0.011119759813188036,
+"user_id": 43114731,
+"consume_others": 0.23351495607694875,
+"consume": 0.0
+      }
+    },
+    "files": [
+      {
+        "identity": 1,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 4,
+"file_id": 100
+        }
+      }
+    ],
+    "topic": {
+"identity": 2,
+"labels": [
+        "Topic"
+      ],
+"properties": {
+"volume": 5167328,
+"role": "Alpha",
+"topic_id": 17,
+"density": 47838.2333265692
+      }
+    }
+  },
+  {
+    "producer": {
+"identity": 5,
+"labels": [
+        "Producer"
+      ],
+"properties": {
+"volume": 97200,
+"role": "Gamma",
+"density": 11407.20000565052,
+"production": 0.022239519626376072,
+"user_id": 787132,
+"consume_others": 2.0015567663738465,
+"consume": 0.0
+      }
+    },
+    "files": [
+      {
+        "identity": 6,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 3,
+"file_id": 107
+        }
+      }
+    ],
+    "topic": {
+"identity": 7,
+"labels": [
+        "Topic"
+      ],
+"properties": {
+"volume": 3072,
+"role": "Gamma",
+"topic_id": 22,
+"density": 29.583333134651184
+      }
+    }
+  },
+  {
+    "producer": {
+"identity": 169,
+"labels": [
+        "Producer"
+      ],
+"properties": {
+"volume": 9248,
+"role": "Gamma",
+"density": 1026.8333308398724,
+"production": 0.011119759813188036,
+"user_id": 330415280,
+"consume_others": 0.3780718336483932,
+"consume": 0.21127543645057267
+      }
+    },
+    "files": [
+      {
+        "identity": 170,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 8,
+"file_id": 114
+        }
+      }
+    ],
+    "topic": {
+"identity": 9,
+"labels": [
+        "Topic"
+      ],
+"properties": {
+"volume": 204680,
+"role": "Gamma",
+"topic_id": 5,
+"density": 12843.766667693853
+      }
+    }
+  },
+  {
+    "producer": {
+"identity": 94,
+"labels": [
+        "Producer"
+      ],
+"properties": {
+"volume": 37647,
+"role": "Gamma",
+"density": 2307.2999859452248,
+"production": 0.044479039252752144,
+"user_id": 350781937,
+"consume_others": 0.9896586233737352,
+"consume": 0.0
+      }
+    },
+    "files": [
+      {
+        "identity": 95,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 8,
+"file_id": 35
+        }
+      }
+    ],
+    "topic": {
+"identity": 9,
+"labels": [
+        "Topic"
+      ],
+"properties": {
+"volume": 204680,
+"role": "Gamma",
+"topic_id": 5,
+"density": 12843.766667693853
+      }
+    }
+  },
+  {
+    "producer": {
+"identity": 15,
+"labels": [
+        "Producer"
+      ],
+"properties": {
+"volume": 196,
+"role": "Gamma",
+"density": 17.31666648387909,
+"production": 0.011119759813188036,
+"user_id": 241246893,
+"consume_others": 0.07783831869231625,
+"consume": 0.0
+      }
+    },
+    "files": [
+      {
+        "identity": 16,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 4,
+"file_id": 40
+        }
+      }
+    ],
+    "topic": {
+"identity": 9,
+"labels": [
+        "Topic"
+      ],
+"properties": {
+"volume": 204680,
+"role": "Gamma",
+"topic_id": 5,
+"density": 12843.766667693853
+      }
+    }
+  },
+  {
+    "producer": {
+"identity": 5,
+"labels": [
+        "Producer"
+      ],
+"properties": {
+"volume": 97200,
+"role": "Gamma",
+"density": 11407.20000565052,
+"production": 0.022239519626376072,
+"user_id": 787132,
+"consume_others": 2.0015567663738465,
+"consume": 0.0
+      }
+    },
+    "files": [
+      {
+        "identity": 8,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 3,
+"file_id": 103
+        }
+      }
+    ],
+    "topic": {
+"identity": 9,
+"labels": [
+        "Topic"
+      ],
+"properties": {
+"volume": 204680,
+"role": "Gamma",
+"topic_id": 5,
+"density": 12843.766667693853
+      }
+    }
+  },
+  {
+    "producer": {
+"identity": 38,
+"labels": [
+        "Producer"
+      ],
+"properties": {
+"volume": 314496,
+"role": "Alpha",
+"density": 11439.333334565164,
+"production": 0.044479039252752144,
+"user_id": 742756569,
+"consume_others": 2.8021794729233847,
+"consume": 0.0
+      }
+    },
+    "files": [
+      {
+        "identity": 42,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 5,
+"file_id": 92
+        }
+      }
+    ],
+    "topic": {
+"identity": 12,
+"labels": [
+        "Topic"
+      ],
+"properties": {
+"volume": 360000,
+"role": "Gamma",
+"topic_id": 10,
+"density": 9520.983328700066
+      }
+    }
+  },
+  {
+    "producer": {
+"identity": 10,
+"labels": [
+        "Producer"
+      ],
+"properties": {
+"volume": 450000,
+"role": "Beta",
+"density": 18561.7832955122,
+"user_id": 259220806,
+"production": 0.022239519626376072,
+"consume_others": 3.3359279439564107,
+"consume": 0.0
+      }
+    },
+    "files": [
+      {
+        "identity": 11,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 3,
+"file_id": 7
+        }
+      }
+    ],
+    "topic": {
+"identity": 12,
+"labels": [
+        "Topic"
+      ],
+"properties": {
+"volume": 360000,
+"role": "Gamma",
+"topic_id": 10,
+"density": 9520.983328700066
+      }
+    }
+  },
+  {
+    "producer": {
+"identity": 187,
+"labels": [
+        "Producer"
+      ],
+"properties": {
+"volume": 135000,
+"role": "Alpha",
+"density": 6345.416682019829,
+"production": 0.011119759813188036,
+"user_id": 218549275,
+"consume_others": 1.6679639719782051,
+"consume": 0.0
+      }
+    },
+    "files": [
+      {
+        "identity": 188,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 6,
+"file_id": 66
+        }
+      }
+    ],
+    "topic": {
+"identity": 14,
+"labels": [
+        "Topic"
+      ],
+"properties": {
+"volume": 7602267,
+"role": "Beta",
+"topic_id": 13,
+"density": 59864.29996819049
+      }
+    }
+  },
+  {
+    "producer": {
+"identity": 175,
+"labels": [
+        "Producer"
+      ],
+"properties": {
+"volume": 30976,
+"role": "Gamma",
+"density": 3733.933344423771,
+"production": 0.011119759813188036,
+"user_id": 5087794,
+"consume_others": 0.9785388635605472,
+"consume": 0.0
+      }
+    },
+    "files": [
+      {
+        "identity": 176,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 4,
+"file_id": 3
+        }
+      }
+    ],
+    "topic": {
+"identity": 14,
+"labels": [
+        "Topic"
+      ],
+"properties": {
+"volume": 7602267,
+"role": "Beta",
+"topic_id": 13,
+"density": 59864.29996819049
+      }
+    }
+  },
+  {
+    "producer": {
+"identity": 117,
+"labels": [
+        "Producer"
+      ],
+"properties": {
+"volume": 13520,
+"role": "Gamma",
+"density": 1448.7333501502872,
+"production": 0.011119759813188036,
+"user_id": 1450621,
+"consume_others": 0.5782275102857778,
+"consume": 0.10007783831869232
+      }
+    },
+    "files": [
+      {
+        "identity": 118,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 5,
+"file_id": 1
+        }
+      }
+    ],
+    "topic": {
+"identity": 14,
+"labels": [
+        "Topic"
+      ],
+"properties": {
+"volume": 7602267,
+"role": "Beta",
+"topic_id": 13,
+"density": 59864.29996819049
+      }
+    }
+  },
+  {
+    "producer": {
+"identity": 110,
+"labels": [
+        "Producer"
+      ],
+"properties": {
+"volume": 4320000,
+"role": "Beta",
+"density": 43367.48324966432,
+"user_id": 145821237,
+"production": 0.06671855887912821,
+"consume_others": 10.007783831869233,
+"consume": 0.0
+      }
+    },
+    "files": [
+      {
+        "identity": 115,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 6,
+"file_id": 14
+        }
+      }
+    ],
+    "topic": {
+"identity": 14,
+"labels": [
+        "Topic"
+      ],
+"properties": {
+"volume": 7602267,
+"role": "Beta",
+"topic_id": 13,
+"density": 59864.29996819049
+      }
+    }
+  },
+  {
+    "producer": {
+"identity": 89,
+"labels": [
+        "Producer"
+      ],
+"properties": {
+"volume": 202500,
+"role": "Alpha",
+"density": 5616.616664886475,
+"production": 0.011119759813188036,
+"user_id": 775740654,
+"consume_others": 1.6679639719782051,
+"consume": 0.0
+      }
+    },
+    "files": [
+      {
+        "identity": 90,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 9,
+"file_id": 108
+        }
+      }
+    ],
+    "topic": {
+"identity": 14,
+"labels": [
+        "Topic"
+      ],
+"properties": {
+"volume": 7602267,
+"role": "Beta",
+"topic_id": 13,
+"density": 59864.29996819049
+      }
+    }
+  },
+  {
+    "producer": {
+"identity": 76,
+"labels": [
+        "Producer"
+      ],
+"properties": {
+"volume": 1620000,
+"role": "Beta",
+"density": 20983.05000686645,
+"user_id": 208560325,
+"production": 0.033359279439564106,
+"consume_others": 5.0038919159346165,
+"consume": 0.0
+      }
+    },
+    "files": [
+      {
+        "identity": 79,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 9,
+"file_id": 67
+        }
+      }
+    ],
+    "topic": {
+"identity": 14,
+"labels": [
+        "Topic"
+      ],
+"properties": {
+"volume": 7602267,
+"role": "Beta",
+"topic_id": 13,
+"density": 59864.29996819049
+      }
+    }
+  },
+  {
+    "producer": {
+"identity": 74,
+"labels": [
+        "Producer"
+      ],
+"properties": {
+"volume": 157500,
+"role": "Alpha",
+"density": 6108.800001144409,
+"production": 0.011119759813188036,
+"user_id": 189379530,
+"consume_others": 1.6679639719782051,
+"consume": 0.0
+      }
+    },
+    "files": [
+      {
+        "identity": 75,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 7,
+"file_id": 76
+        }
+      }
+    ],
+    "topic": {
+"identity": 14,
+"labels": [
+        "Topic"
+      ],
+"properties": {
+"volume": 7602267,
+"role": "Beta",
+"topic_id": 13,
+"density": 59864.29996819049
+      }
+    }
+  },
+  {
+    "producer": {
+"identity": 72,
+"labels": [
+        "Producer"
+      ],
+"properties": {
+"volume": 343,
+"role": "Gamma",
+"density": 98.71666598320007,
+"production": 0.011119759813188036,
+"user_id": 4769265,
+"consume_others": 0.07783831869231625,
+"consume": 0.0
+      }
+    },
+    "files": [
+      {
+        "identity": 73,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 7,
+"file_id": 64
+        }
+      }
+    ],
+    "topic": {
+"identity": 14,
+"labels": [
+        "Topic"
+      ],
+"properties": {
+"volume": 7602267,
+"role": "Beta",
+"topic_id": 13,
+"density": 59864.29996819049
+      }
+    }
+  },
+  {
+    "producer": {
+"identity": 10,
+"labels": [
+        "Producer"
+      ],
+"properties": {
+"volume": 450000,
+"role": "Beta",
+"density": 18561.7832955122,
+"user_id": 259220806,
+"production": 0.022239519626376072,
+"consume_others": 3.3359279439564107,
+"consume": 0.0
+      }
+    },
+    "files": [
+      {
+        "identity": 13,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 7,
+"file_id": 48
+        }
+      }
+    ],
+    "topic": {
+"identity": 14,
+"labels": [
+        "Topic"
+      ],
+"properties": {
+"volume": 7602267,
+"role": "Beta",
+"topic_id": 13,
+"density": 59864.29996819049
+      }
+    }
+  },
+  {
+    "producer": {
+"identity": 156,
+"labels": [
+        "Producer"
+      ],
+"properties": {
+"volume": 847,
+"role": "Gamma",
+"density": 409.7000013589859,
+"production": 0.011119759813188036,
+"user_id": 54603025,
+"consume_others": 0.1223173579450684,
+"consume": 0.0
+      }
+    },
+    "files": [
+      {
+        "identity": 157,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 7,
+"file_id": 62
+        }
+      }
+    ],
+    "topic": {
+"identity": 19,
+"labels": [
+        "Topic"
+      ],
+"properties": {
+"volume": 264872,
+"role": "Gamma",
+"topic_id": 19,
+"density": 7873.866634622215
+      }
+    }
+  },
+  {
+    "producer": {
+"identity": 110,
+"labels": [
+        "Producer"
+      ],
+"properties": {
+"volume": 4320000,
+"role": "Beta",
+"density": 43367.48324966432,
+"user_id": 145821237,
+"production": 0.06671855887912821,
+"consume_others": 10.007783831869233,
+"consume": 0.0
+      }
+    },
+    "files": [
+      {
+        "identity": 112,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 6,
+"file_id": 110
+        }
+      }
+    ],
+    "topic": {
+"identity": 19,
+"labels": [
+        "Topic"
+      ],
+"properties": {
+"volume": 264872,
+"role": "Gamma",
+"topic_id": 19,
+"density": 7873.866634622215
+      }
+    }
+  },
+  {
+    "producer": {
+"identity": 17,
+"labels": [
+        "Producer"
+      ],
+"properties": {
+"volume": 170925,
+"role": "Alpha",
+"density": 12164.133327141404,
+"production": 0.022239519626376072,
+"user_id": 301763305,
+"consume_others": 2.3907483598354284,
+"consume": 0.0
+      }
+    },
+    "files": [
+      {
+        "identity": 18,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 3,
+"file_id": 60
+        }
+      }
+    ],
+    "topic": {
+"identity": 19,
+"labels": [
+        "Topic"
+      ],
+"properties": {
+"volume": 264872,
+"role": "Gamma",
+"topic_id": 19,
+"density": 7873.866634622215
+      }
+    }
+  },
+  {
+    "producer": {
+"identity": 183,
+"labels": [
+        "Producer"
+      ],
+"properties": {
+"volume": 37845,
+"role": "Gamma",
+"density": 2187.96665866673,
+"production": 0.011119759813188036,
+"user_id": 182144062,
+"consume_others": 0.9674191037473592,
+"consume": 0.0
+      }
+    },
+    "files": [
+      {
+        "identity": 184,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 5,
+"file_id": 8
+        }
+      }
+    ],
+    "topic": {
+"identity": 23,
+"labels": [
+        "Topic"
+      ],
+"properties": {
+"volume": 7498850,
+"role": "Alpha",
+"topic_id": 2,
+"density": 46620.73329891264
+      }
+    }
+  },
+  {
+    "producer": {
+"identity": 177,
+"labels": [
+        "Producer"
+      ],
+"properties": {
+"volume": 112500,
+"role": "Gamma",
+"density": 15506.39998626709,
+"production": 0.011119759813188036,
+"user_id": 337872647,
+"consume_others": 1.6679639719782051,
+"consume": 0.0
+      }
+    },
+    "files": [
+      {
+        "identity": 178,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 5,
+"file_id": 72
+        }
+      }
+    ],
+    "topic": {
+"identity": 23,
+"labels": [
+        "Topic"
+      ],
+"properties": {
+"volume": 7498850,
+"role": "Alpha",
+"topic_id": 2,
+"density": 46620.73329891264
+      }
+    }
+  },
+  {
+    "producer": {
+"identity": 171,
+"labels": [
+        "Producer"
+      ],
+"properties": {
+"volume": 67500,
+"role": "Gamma",
+"density": 9033.60002231598,
+"production": 0.011119759813188036,
+"user_id": 50804348,
+"consume_others": 1.6679639719782051,
+"consume": 0.17791615701100855
+      }
+    },
+    "files": [
+      {
+        "identity": 172,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 3,
+"file_id": 70
+        }
+      }
+    ],
+    "topic": {
+"identity": 23,
+"labels": [
+        "Topic"
+      ],
+"properties": {
+"volume": 7498850,
+"role": "Alpha",
+"topic_id": 2,
+"density": 46620.73329891264
+      }
+    }
+  },
+  {
+    "producer": {
+"identity": 144,
+"labels": [
+        "Producer"
+      ],
+"properties": {
+"volume": 62001,
+"role": "Gamma",
+"density": 2166.8666614294048,
+"production": 0.011119759813188036,
+"user_id": 1463412041,
+"consume_others": 0.922940064494607,
+"consume": 0.0
+      }
+    },
+    "files": [
+      {
+        "identity": 145,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 9,
+"file_id": 74
+        }
+      }
+    ],
+    "topic": {
+"identity": 23,
+"labels": [
+        "Topic"
+      ],
+"properties": {
+"volume": 7498850,
+"role": "Alpha",
+"topic_id": 2,
+"density": 46620.73329891264
+      }
+    }
+  },
+  {
+    "producer": {
+"identity": 123,
+"labels": [
+        "Producer"
+      ],
+"properties": {
+"volume": 1824,
+"role": "Gamma",
+"density": 299.26666167378426,
+"production": 0.022239519626376072,
+"user_id": 1576246743,
+"consume_others": 0.21127543645057267,
+"consume": 0.022239519626376072
+      }
+    },
+    "files": [
+      {
+        "identity": 125,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 1,
+"file_id": 12
+        }
+      },
+      {
+        "identity": 124,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 8,
+"file_id": 71
+        }
+      }
+    ],
+    "topic": {
+"identity": 23,
+"labels": [
+        "Topic"
+      ],
+"properties": {
+"volume": 7498850,
+"role": "Alpha",
+"topic_id": 2,
+"density": 46620.73329891264
+      }
+    }
+  },
+  {
+    "producer": {
+"identity": 110,
+"labels": [
+        "Producer"
+      ],
+"properties": {
+"volume": 4320000,
+"role": "Beta",
+"density": 43367.48324966432,
+"user_id": 145821237,
+"production": 0.06671855887912821,
+"consume_others": 10.007783831869233,
+"consume": 0.0
+      }
+    },
+    "files": [
+      {
+        "identity": 114,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 6,
+"file_id": 5
+        }
+      }
+    ],
+    "topic": {
+"identity": 23,
+"labels": [
+        "Topic"
+      ],
+"properties": {
+"volume": 7498850,
+"role": "Alpha",
+"topic_id": 2,
+"density": 46620.73329891264
+      }
+    }
+  },
+  {
+    "producer": {
+"identity": 91,
+"labels": [
+        "Producer"
+      ],
+"properties": {
+"volume": 332488,
+"role": "Alpha",
+"density": 7033.649978667498,
+"production": 0.022239519626376072,
+"user_id": 19769622,
+"consume_others": 3.0912932280662737,
+"consume": 0.0
+      }
+    },
+    "files": [
+      {
+        "identity": 92,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 2,
+"file_id": 10
+        }
+      }
+    ],
+    "topic": {
+"identity": 23,
+"labels": [
+        "Topic"
+      ],
+"properties": {
+"volume": 7498850,
+"role": "Alpha",
+"topic_id": 2,
+"density": 46620.73329891264
+      }
+    }
+  },
+  {
+    "producer": {
+"identity": 76,
+"labels": [
+        "Producer"
+      ],
+"properties": {
+"volume": 1620000,
+"role": "Beta",
+"density": 20983.05000686645,
+"user_id": 208560325,
+"production": 0.033359279439564106,
+"consume_others": 5.0038919159346165,
+"consume": 0.0
+      }
+    },
+    "files": [
+      {
+        "identity": 78,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 9,
+"file_id": 77
+        }
+      }
+    ],
+    "topic": {
+"identity": 23,
+"labels": [
+        "Topic"
+      ],
+"properties": {
+"volume": 7498850,
+"role": "Alpha",
+"topic_id": 2,
+"density": 46620.73329891264
+      }
+    }
+  },
+  {
+    "producer": {
+"identity": 54,
+"labels": [
+        "Producer"
+      ],
+"properties": {
+"volume": 111005,
+"role": "Gamma",
+"density": 1993.7166647911072,
+"production": 0.011119759813188036,
+"user_id": 6590609,
+"consume_others": 1.6568442121650169,
+"consume": 0.0
+      }
+    },
+    "files": [
+      {
+        "identity": 55,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 5,
+"file_id": 13
+        }
+      }
+    ],
+    "topic": {
+"identity": 23,
+"labels": [
+        "Topic"
+      ],
+"properties": {
+"volume": 7498850,
+"role": "Alpha",
+"topic_id": 2,
+"density": 46620.73329891264
+      }
+    }
+  },
+  {
+    "producer": {
+"identity": 21,
+"labels": [
+        "Producer"
+      ],
+"properties": {
+"volume": 52983,
+"role": "Gamma",
+"density": 242.53333392739296,
+"production": 0.011119759813188036,
+"user_id": 36045182,
+"consume_others": 0.9674191037473592,
+"consume": 0.0
+      }
+    },
+    "files": [
+      {
+        "identity": 22,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 7,
+"file_id": 75
+        }
+      }
+    ],
+    "topic": {
+"identity": 23,
+"labels": [
+        "Topic"
+      ],
+"properties": {
+"volume": 7498850,
+"role": "Alpha",
+"topic_id": 2,
+"density": 46620.73329891264
+      }
+    }
+  },
+  {
+    "producer": {
+"identity": 208,
+"labels": [
+        "Producer"
+      ],
+"properties": {
+"volume": 60492,
+"role": "Gamma",
+"density": 7744.450029850006,
+"production": 0.011119759813188036,
+"user_id": 16516077,
+"consume_others": 1.579005893472701,
+"consume": 0.0
+      }
+    },
+    "files": [
+      {
+        "identity": 209,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 3,
+"file_id": 11
+        }
+      }
+    ],
+    "topic": {
+"identity": 26,
+"labels": [
+        "Topic"
+      ],
+"properties": {
+"volume": 3794028,
+"role": "Alpha",
+"topic_id": 24,
+"density": 34855.8333626464
+      }
+    }
+  },
+  {
+    "producer": {
+"identity": 199,
+"labels": [
+        "Producer"
+      ],
+"properties": {
+"volume": 11552,
+"role": "Gamma",
+"density": 2016.3666630983355,
+"production": 0.011119759813188036,
+"user_id": 4721025,
+"consume_others": 0.42255087290114535,
+"consume": 0.0
+      }
+    },
+    "files": [
+      {
+        "identity": 200,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 8,
+"file_id": 54
+        }
+      }
+    ],
+    "topic": {
+"identity": 26,
+"labels": [
+        "Topic"
+      ],
+"properties": {
+"volume": 3794028,
+"role": "Alpha",
+"topic_id": 24,
+"density": 34855.8333626464
+      }
+    }
+  },
+  {
+    "producer": {
+"identity": 189,
+"labels": [
+        "Producer"
+      ],
+"properties": {
+"volume": 135000,
+"role": "Alpha",
+"density": 6312.999986171722,
+"production": 0.011119759813188036,
+"user_id": 10581097,
+"consume_others": 1.6679639719782051,
+"consume": 0.0
+      }
+    },
+    "files": [
+      {
+        "identity": 190,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 6,
+"file_id": 50
+        }
+      }
+    ],
+    "topic": {
+"identity": 26,
+"labels": [
+        "Topic"
+      ],
+"properties": {
+"volume": 3794028,
+"role": "Alpha",
+"topic_id": 24,
+"density": 34855.8333626464
+      }
+    }
+  },
+  {
+    "producer": {
+"identity": 167,
+"labels": [
+        "Producer"
+      ],
+"properties": {
+"volume": 1568,
+"role": "Gamma",
+"density": 582.1666608825327,
+"production": 0.011119759813188036,
+"user_id": 5573182,
+"consume_others": 0.1556766373846325,
+"consume": 0.011119759813188036
+      }
+    },
+    "files": [
+      {
+        "identity": 168,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 8,
+"file_id": 47
+        }
+      }
+    ],
+    "topic": {
+"identity": 26,
+"labels": [
+        "Topic"
+      ],
+"properties": {
+"volume": 3794028,
+"role": "Alpha",
+"topic_id": 24,
+"density": 34855.8333626464
+      }
+    }
+  },
+  {
+    "producer": {
+"identity": 160,
+"labels": [
+        "Producer"
+      ],
+"properties": {
+"volume": 8000,
+"role": "Gamma",
+"density": 1339.3500038683414,
+"production": 0.011119759813188036,
+"user_id": 1125647,
+"consume_others": 0.4447903925275214,
+"consume": 0.011119759813188036
+      }
+    },
+    "files": [
+      {
+        "identity": 161,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 5,
+"file_id": 16
+        }
+      }
+    ],
+    "topic": {
+"identity": 26,
+"labels": [
+        "Topic"
+      ],
+"properties": {
+"volume": 3794028,
+"role": "Alpha",
+"topic_id": 24,
+"density": 34855.8333626464
+      }
+    }
+  },
+  {
+    "producer": {
+"identity": 110,
+"labels": [
+        "Producer"
+      ],
+"properties": {
+"volume": 4320000,
+"role": "Beta",
+"density": 43367.48324966432,
+"user_id": 145821237,
+"production": 0.06671855887912821,
+"consume_others": 10.007783831869233,
+"consume": 0.0
+      }
+    },
+    "files": [
+      {
+        "identity": 113,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 2,
+"file_id": 55
+        }
+      }
+    ],
+    "topic": {
+"identity": 26,
+"labels": [
+        "Topic"
+      ],
+"properties": {
+"volume": 3794028,
+"role": "Alpha",
+"topic_id": 24,
+"density": 34855.8333626464
+      }
+    }
+  },
+  {
+    "producer": {
+"identity": 76,
+"labels": [
+        "Producer"
+      ],
+"properties": {
+"volume": 1620000,
+"role": "Beta",
+"density": 20983.05000686645,
+"user_id": 208560325,
+"production": 0.033359279439564106,
+"consume_others": 5.0038919159346165,
+"consume": 0.0
+      }
+    },
+    "files": [
+      {
+        "identity": 77,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 6,
+"file_id": 25
+        }
+      }
+    ],
+    "topic": {
+"identity": 26,
+"labels": [
+        "Topic"
+      ],
+"properties": {
+"volume": 3794028,
+"role": "Alpha",
+"topic_id": 24,
+"density": 34855.8333626464
+      }
+    }
+  },
+  {
+    "producer": {
+"identity": 60,
+"labels": [
+        "Producer"
+      ],
+"properties": {
+"volume": 314550,
+"role": "Alpha",
+"density": 3371.7333292514095,
+"production": 0.033359279439564106,
+"user_id": 1574083,
+"consume_others": 3.0023351495607686,
+"consume": 0.0
+      }
+    },
+    "files": [
+      {
+        "identity": 62,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 2,
+"file_id": 89
+        }
+      }
+    ],
+    "topic": {
+"identity": 26,
+"labels": [
+        "Topic"
+      ],
+"properties": {
+"volume": 3794028,
+"role": "Alpha",
+"topic_id": 24,
+"density": 34855.8333626464
+      }
+    }
+  },
+  {
+    "producer": {
+"identity": 34,
+"labels": [
+        "Producer"
+      ],
+"properties": {
+"volume": 45000,
+"role": "Gamma",
+"density": 695.9833314418793,
+"production": 0.011119759813188036,
+"user_id": 23678829,
+"consume_others": 1.6679639719782051,
+"consume": 0.0
+      }
+    },
+    "files": [
+      {
+        "identity": 35,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 2,
+"file_id": 56
+        }
+      }
+    ],
+    "topic": {
+"identity": 26,
+"labels": [
+        "Topic"
+      ],
+"properties": {
+"volume": 3794028,
+"role": "Alpha",
+"topic_id": 24,
+"density": 34855.8333626464
+      }
+    }
+  },
+  {
+    "producer": {
+"identity": 24,
+"labels": [
+        "Producer"
+      ],
+"properties": {
+"volume": 11664,
+"role": "Gamma",
+"density": 121.49999994039536,
+"production": 0.011119759813188036,
+"user_id": 9868480,
+"consume_others": 0.4003113532747693,
+"consume": 0.011119759813188036
+      }
+    },
+    "files": [
+      {
+        "identity": 25,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 9,
+"file_id": 90
+        }
+      }
+    ],
+    "topic": {
+"identity": 26,
+"labels": [
+        "Topic"
+      ],
+"properties": {
+"volume": 3794028,
+"role": "Alpha",
+"topic_id": 24,
+"density": 34855.8333626464
+      }
+    }
+  },
+  {
+    "producer": {
+"identity": 220,
+"labels": [
+        "Producer"
+      ],
+"properties": {
+"volume": 46656,
+"role": "Gamma",
+"density": 5859.916685819627,
+"production": 0.011119759813188036,
+"user_id": 193288192,
+"consume_others": 1.200934059824308,
+"consume": 0.0
+      }
+    },
+    "files": [
+      {
+        "identity": 221,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 4,
+"file_id": 17
+        }
+      }
+    ],
+    "topic": {
+"identity": 29,
+"labels": [
+        "Topic"
+      ],
+"properties": {
+"volume": 10034220,
+"role": "Beta",
+"topic_id": 12,
+"density": 105655.7001106143
+      }
+    }
+  },
+  {
+    "producer": {
+"identity": 216,
+"labels": [
+        "Producer"
+      ],
+"properties": {
+"volume": 133206,
+"role": "Beta",
+"density": 15091.433395385742,
+"user_id": 48804988,
+"production": 0.011119759813188036,
+"consume_others": 1.6568442121650169,
+"consume": 0.0
+      }
+    },
+    "files": [
+      {
+        "identity": 217,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 6,
+"file_id": 23
+        }
+      }
+    ],
+    "topic": {
+"identity": 29,
+"labels": [
+        "Topic"
+      ],
+"properties": {
+"volume": 10034220,
+"role": "Beta",
+"topic_id": 12,
+"density": 105655.7001106143
+      }
+    }
+  },
+  {
+    "producer": {
+"identity": 212,
+"labels": [
+        "Producer"
+      ],
+"properties": {
+"volume": 112500,
+"role": "Gamma",
+"density": 9755.133298397064,
+"production": 0.011119759813188036,
+"user_id": 280526827,
+"consume_others": 1.6679639719782051,
+"consume": 0.0
+      }
+    },
+    "files": [
+      {
+        "identity": 213,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 5,
+"file_id": 19
+        }
+      }
+    ],
+    "topic": {
+"identity": 29,
+"labels": [
+        "Topic"
+      ],
+"properties": {
+"volume": 10034220,
+"role": "Beta",
+"topic_id": 12,
+"density": 105655.7001106143
+      }
+    }
+  },
+  {
+    "producer": {
+"identity": 206,
+"labels": [
+        "Producer"
+      ],
+"properties": {
+"volume": 16,
+"role": "Gamma",
+"density": 59.66666769981384,
+"production": 0.011119759813188036,
+"user_id": 33123285,
+"consume_others": 0.022239519626376072,
+"consume": 0.0
+      }
+    },
+    "files": [
+      {
+        "identity": 207,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 4,
+"file_id": 80
+        }
+      }
+    ],
+    "topic": {
+"identity": 29,
+"labels": [
+        "Topic"
+      ],
+"properties": {
+"volume": 10034220,
+"role": "Beta",
+"topic_id": 12,
+"density": 105655.7001106143
+      }
+    }
+  },
+  {
+    "producer": {
+"identity": 195,
+"labels": [
+        "Producer"
+      ],
+"properties": {
+"volume": 67500,
+"role": "Gamma",
+"density": 20433.566726684567,
+"production": 0.011119759813188036,
+"user_id": 178522459,
+"consume_others": 1.6679639719782051,
+"consume": 0.0
+      }
+    },
+    "files": [
+      {
+        "identity": 196,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 3,
+"file_id": 78
+        }
+      }
+    ],
+    "topic": {
+"identity": 29,
+"labels": [
+        "Topic"
+      ],
+"properties": {
+"volume": 10034220,
+"role": "Beta",
+"topic_id": 12,
+"density": 105655.7001106143
+      }
+    }
+  },
+  {
+    "producer": {
+"identity": 185,
+"labels": [
+        "Producer"
+      ],
+"properties": {
+"volume": 67500,
+"role": "Gamma",
+"density": 8594.133354187012,
+"production": 0.011119759813188036,
+"user_id": 230447982,
+"consume_others": 1.6679639719782051,
+"consume": 0.0
+      }
+    },
+    "files": [
+      {
+        "identity": 186,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 3,
+"file_id": 22
+        }
+      }
+    ],
+    "topic": {
+"identity": 29,
+"labels": [
+        "Topic"
+      ],
+"properties": {
+"volume": 10034220,
+"role": "Beta",
+"topic_id": 12,
+"density": 105655.7001106143
+      }
+    }
+  },
+  {
+    "producer": {
+"identity": 162,
+"labels": [
+        "Producer"
+      ],
+"properties": {
+"volume": 535808,
+"role": "Beta",
+"density": 38919.316673278816,
+"user_id": 9473172,
+"production": 0.022239519626376072,
+"consume_others": 3.3248081841432224,
+"consume": 0.0
+      }
+    },
+    "files": [
+      {
+        "identity": 164,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 4,
+"file_id": 57
+        }
+      },
+      {
+        "identity": 163,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 8,
+"file_id": 52
+        }
+      }
+    ],
+    "topic": {
+"identity": 29,
+"labels": [
+        "Topic"
+      ],
+"properties": {
+"volume": 10034220,
+"role": "Beta",
+"topic_id": 12,
+"density": 105655.7001106143
+      }
+    }
+  },
+  {
+    "producer": {
+"identity": 101,
+"labels": [
+        "Producer"
+      ],
+"properties": {
+"volume": 5,
+"role": "Gamma",
+"density": 22.149999618530273,
+"production": 0.011119759813188036,
+"user_id": 908420976,
+"consume_others": 0.011119759813188036,
+"consume": 0.0
+      }
+    },
+    "files": [
+      {
+        "identity": 102,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 5,
+"file_id": 53
+        }
+      }
+    ],
+    "topic": {
+"identity": 29,
+"labels": [
+        "Topic"
+      ],
+"properties": {
+"volume": 10034220,
+"role": "Beta",
+"topic_id": 12,
+"density": 105655.7001106143
+      }
+    }
+  },
+  {
+    "producer": {
+"identity": 99,
+"labels": [
+        "Producer"
+      ],
+"properties": {
+"volume": 19602,
+"role": "Gamma",
+"density": 2421.566658705473,
+"production": 0.011119759813188036,
+"user_id": 4140744,
+"consume_others": 1.1008562215056157,
+"consume": 0.044479039252752144
+      }
+    },
+    "files": [
+      {
+        "identity": 100,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 2,
+"file_id": 49
+        }
+      }
+    ],
+    "topic": {
+"identity": 29,
+"labels": [
+        "Topic"
+      ],
+"properties": {
+"volume": 10034220,
+"role": "Beta",
+"topic_id": 12,
+"density": 105655.7001106143
+      }
+    }
+  },
+  {
+    "producer": {
+"identity": 91,
+"labels": [
+        "Producer"
+      ],
+"properties": {
+"volume": 332488,
+"role": "Alpha",
+"density": 7033.649978667498,
+"production": 0.022239519626376072,
+"user_id": 19769622,
+"consume_others": 3.0912932280662737,
+"consume": 0.0
+      }
+    },
+    "files": [
+      {
+        "identity": 93,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 7,
+"file_id": 83
+        }
+      }
+    ],
+    "topic": {
+"identity": 29,
+"labels": [
+        "Topic"
+      ],
+"properties": {
+"volume": 10034220,
+"role": "Beta",
+"topic_id": 12,
+"density": 105655.7001106143
+      }
+    }
+  },
+  {
+    "producer": {
+"identity": 58,
+"labels": [
+        "Producer"
+      ],
+"properties": {
+"volume": 10,
+"role": "Gamma",
+"density": 2.0833332538604736,
+"production": 0.011119759813188036,
+"user_id": 176595831,
+"consume_others": 0.011119759813188036,
+"consume": 0.0
+      }
+    },
+    "files": [
+      {
+        "identity": 59,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 10,
+"file_id": 51
+        }
+      }
+    ],
+    "topic": {
+"identity": 29,
+"labels": [
+        "Topic"
+      ],
+"properties": {
+"volume": 10034220,
+"role": "Beta",
+"topic_id": 12,
+"density": 105655.7001106143
+      }
+    }
+  },
+  {
+    "producer": {
+"identity": 56,
+"labels": [
+        "Producer"
+      ],
+"properties": {
+"volume": 80,
+"role": "Gamma",
+"density": 77.84999871253967,
+"production": 0.011119759813188036,
+"user_id": 816371,
+"consume_others": 0.044479039252752144,
+"consume": 0.0
+      }
+    },
+    "files": [
+      {
+        "identity": 57,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 5,
+"file_id": 27
+        }
+      }
+    ],
+    "topic": {
+"identity": 29,
+"labels": [
+        "Topic"
+      ],
+"properties": {
+"volume": 10034220,
+"role": "Beta",
+"topic_id": 12,
+"density": 105655.7001106143
+      }
+    }
+  },
+  {
+    "producer": {
+"identity": 48,
+"labels": [
+        "Producer"
+      ],
+"properties": {
+"volume": 29696,
+"role": "Gamma",
+"density": 2445.733345329761,
+"production": 0.022239519626376072,
+"user_id": 722877997,
+"consume_others": 1.289892138329812,
+"consume": 0.0
+      }
+    },
+    "files": [
+      {
+        "identity": 49,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 4,
+"file_id": 26
+        }
+      }
+    ],
+    "topic": {
+"identity": 29,
+"labels": [
+        "Topic"
+      ],
+"properties": {
+"volume": 10034220,
+"role": "Beta",
+"topic_id": 12,
+"density": 105655.7001106143
+      }
+    }
+  },
+  {
+    "producer": {
+"identity": 46,
+"labels": [
+        "Producer"
+      ],
+"properties": {
+"volume": 63075,
+"role": "Gamma",
+"density": 934.1499990224838,
+"production": 0.011119759813188036,
+"user_id": 325848806,
+"consume_others": 1.6123651729122648,
+"consume": 0.0
+      }
+    },
+    "files": [
+      {
+        "identity": 47,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 3,
+"file_id": 88
+        }
+      }
+    ],
+    "topic": {
+"identity": 29,
+"labels": [
+        "Topic"
+      ],
+"properties": {
+"volume": 10034220,
+"role": "Beta",
+"topic_id": 12,
+"density": 105655.7001106143
+      }
+    }
+  },
+  {
+    "producer": {
+"identity": 38,
+"labels": [
+        "Producer"
+      ],
+"properties": {
+"volume": 314496,
+"role": "Alpha",
+"density": 11439.333334565164,
+"production": 0.044479039252752144,
+"user_id": 742756569,
+"consume_others": 2.8021794729233847,
+"consume": 0.0
+      }
+    },
+    "files": [
+      {
+        "identity": 40,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 4,
+"file_id": 84
+        }
+      }
+    ],
+    "topic": {
+"identity": 29,
+"labels": [
+        "Topic"
+      ],
+"properties": {
+"volume": 10034220,
+"role": "Beta",
+"topic_id": 12,
+"density": 105655.7001106143
+      }
+    }
+  },
+  {
+    "producer": {
+"identity": 27,
+"labels": [
+        "Producer"
+      ],
+"properties": {
+"volume": 17500,
+"role": "Gamma",
+"density": 152.33333307504654,
+"production": 0.011119759813188036,
+"user_id": 195270438,
+"consume_others": 0.5559879906594017,
+"consume": 0.0
+      }
+    },
+    "files": [
+      {
+        "identity": 28,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 7,
+"file_id": 31
+        }
+      }
+    ],
+    "topic": {
+"identity": 29,
+"labels": [
+        "Topic"
+      ],
+"properties": {
+"volume": 10034220,
+"role": "Beta",
+"topic_id": 12,
+"density": 105655.7001106143
+      }
+    }
+  },
+  {
+    "producer": {
+"identity": 146,
+"labels": [
+        "Producer"
+      ],
+"properties": {
+"volume": 99405,
+"role": "Gamma",
+"density": 3113.749999344349,
+"production": 0.011119759813188036,
+"user_id": 9675477,
+"consume_others": 1.5678861336595131,
+"consume": 0.0
+      }
+    },
+    "files": [
+      {
+        "identity": 147,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 5,
+"file_id": 37
+        }
+      }
+    ],
+    "topic": {
+"identity": 32,
+"labels": [
+        "Topic"
+      ],
+"properties": {
+"volume": 1143521,
+"role": "Gamma",
+"topic_id": 3,
+"density": 11415.500000089409
+      }
+    }
+  },
+  {
+    "producer": {
+"identity": 135,
+"labels": [
+        "Producer"
+      ],
+"properties": {
+"volume": 13872,
+"role": "Gamma",
+"density": 1668.2166640460491,
+"production": 0.011119759813188036,
+"user_id": 304662892,
+"consume_others": 0.7561436672967864,
+"consume": 0.0
+      }
+    },
+    "files": [
+      {
+        "identity": 136,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 3,
+"file_id": 39
+        }
+      }
+    ],
+    "topic": {
+"identity": 32,
+"labels": [
+        "Topic"
+      ],
+"properties": {
+"volume": 1143521,
+"role": "Gamma",
+"topic_id": 3,
+"density": 11415.500000089409
+      }
+    }
+  },
+  {
+    "producer": {
+"identity": 126,
+"labels": [
+        "Producer"
+      ],
+"properties": {
+"volume": 19600,
+"role": "Gamma",
+"density": 1783.233329594135,
+"production": 0.011119759813188036,
+"user_id": 615435612,
+"consume_others": 0.7783831869231624,
+"consume": 0.011119759813188036
+      }
+    },
+    "files": [
+      {
+        "identity": 127,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 4,
+"file_id": 44
+        }
+      }
+    ],
+    "topic": {
+"identity": 32,
+"labels": [
+        "Topic"
+      ],
+"properties": {
+"volume": 1143521,
+"role": "Gamma",
+"topic_id": 3,
+"density": 11415.500000089409
+      }
+    }
+  },
+  {
+    "producer": {
+"identity": 103,
+"labels": [
+        "Producer"
+      ],
+"properties": {
+"volume": 12,
+"role": "Gamma",
+"density": 20.56666755676269,
+"production": 0.011119759813188036,
+"user_id": 28436913,
+"consume_others": 0.022239519626376072,
+"consume": 0.0
+      }
+    },
+    "files": [
+      {
+        "identity": 104,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 3,
+"file_id": 41
+        }
+      }
+    ],
+    "topic": {
+"identity": 32,
+"labels": [
+        "Topic"
+      ],
+"properties": {
+"volume": 1143521,
+"role": "Gamma",
+"topic_id": 3,
+"density": 11415.500000089409
+      }
+    }
+  },
+  {
+    "producer": {
+"identity": 87,
+"labels": [
+        "Producer"
+      ],
+"properties": {
+"volume": 11907,
+"role": "Gamma",
+"density": 1205.4833282828329,
+"production": 0.011119759813188036,
+"user_id": 12456888,
+"consume_others": 0.7005448682308462,
+"consume": 0.0
+      }
+    },
+    "files": [
+      {
+        "identity": 88,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 3,
+"file_id": 34
+        }
+      }
+    ],
+    "topic": {
+"identity": 32,
+"labels": [
+        "Topic"
+      ],
+"properties": {
+"volume": 1143521,
+"role": "Gamma",
+"topic_id": 3,
+"density": 11415.500000089409
+      }
+    }
+  },
+  {
+    "producer": {
+"identity": 80,
+"labels": [
+        "Producer"
+      ],
+"properties": {
+"volume": 3816,
+"role": "Gamma",
+"density": 471.26666897535324,
+"production": 0.022239519626376072,
+"user_id": 32337339,
+"consume_others": 0.26687423551651285,
+"consume": 0.17791615701100855
+      }
+    },
+    "files": [
+      {
+        "identity": 81,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 5,
+"file_id": 46
+        }
+      }
+    ],
+    "topic": {
+"identity": 32,
+"labels": [
+        "Topic"
+      ],
+"properties": {
+"volume": 1143521,
+"role": "Gamma",
+"topic_id": 3,
+"density": 11415.500000089409
+      }
+    }
+  },
+  {
+    "producer": {
+"identity": 60,
+"labels": [
+        "Producer"
+      ],
+"properties": {
+"volume": 314550,
+"role": "Alpha",
+"density": 3371.7333292514095,
+"production": 0.033359279439564106,
+"user_id": 1574083,
+"consume_others": 3.0023351495607686,
+"consume": 0.0
+      }
+    },
+    "files": [
+      {
+        "identity": 61,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 4,
+"file_id": 43
+        }
+      }
+    ],
+    "topic": {
+"identity": 32,
+"labels": [
+        "Topic"
+      ],
+"properties": {
+"volume": 1143521,
+"role": "Gamma",
+"topic_id": 3,
+"density": 11415.500000089409
+      }
+    }
+  },
+  {
+    "producer": {
+"identity": 48,
+"labels": [
+        "Producer"
+      ],
+"properties": {
+"volume": 29696,
+"role": "Gamma",
+"density": 2445.733345329761,
+"production": 0.022239519626376072,
+"user_id": 722877997,
+"consume_others": 1.289892138329812,
+"consume": 0.0
+      }
+    },
+    "files": [
+      {
+        "identity": 50,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 2,
+"file_id": 38
+        }
+      }
+    ],
+    "topic": {
+"identity": 32,
+"labels": [
+        "Topic"
+      ],
+"properties": {
+"volume": 1143521,
+"role": "Gamma",
+"topic_id": 3,
+"density": 11415.500000089409
+      }
+    }
+  },
+  {
+    "producer": {
+"identity": 36,
+"labels": [
+        "Producer"
+      ],
+"properties": {
+"volume": 125,
+"role": "Gamma",
+"density": 23.80000001192093,
+"production": 0.011119759813188036,
+"user_id": 9942499,
+"consume_others": 0.055598799065940174,
+"consume": 0.022239519626376072
+      }
+    },
+    "files": [
+      {
+        "identity": 37,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 5,
+"file_id": 102
+        }
+      }
+    ],
+    "topic": {
+"identity": 32,
+"labels": [
+        "Topic"
+      ],
+"properties": {
+"volume": 1143521,
+"role": "Gamma",
+"topic_id": 3,
+"density": 11415.500000089409
+      }
+    }
+  },
+  {
+    "producer": {
+"identity": 30,
+"labels": [
+        "Producer"
+      ],
+"properties": {
+"volume": 2970,
+"role": "Gamma",
+"density": 1645.7666531801224,
+"production": 0.022239519626376072,
+"user_id": 514663404,
+"consume_others": 0.2446347158901368,
+"consume": 0.0
+      }
+    },
+    "files": [
+      {
+        "identity": 31,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 7,
+"file_id": 45
+        }
+      }
+    ],
+    "topic": {
+"identity": 32,
+"labels": [
+        "Topic"
+      ],
+"properties": {
+"volume": 1143521,
+"role": "Gamma",
+"topic_id": 3,
+"density": 11415.500000089409
+      }
+    }
+  },
+  {
+    "producer": {
+"identity": 218,
+"labels": [
+        "Producer"
+      ],
+"properties": {
+"volume": 27,
+"role": "Gamma",
+"density": 175.53332722187042,
+"production": 0.011119759813188036,
+"user_id": 1785849650,
+"consume_others": 0.033359279439564106,
+"consume": 0.011119759813188036
+      }
+    },
+    "files": [
+      {
+        "identity": 219,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 3,
+"file_id": 97
+        }
+      }
+    ],
+    "topic": {
+"identity": 45,
+"labels": [
+        "Topic"
+      ],
+"properties": {
+"volume": 332449,
+"role": "Gamma",
+"topic_id": 21,
+"density": 6441.900005824865
+      }
+    }
+  },
+  {
+    "producer": {
+"identity": 193,
+"labels": [
+        "Producer"
+      ],
+"properties": {
+"volume": 2880,
+"role": "Gamma",
+"density": 1073.6333405449986,
+"production": 0.011119759813188036,
+"user_id": 511234658,
+"consume_others": 0.26687423551651285,
+"consume": 0.06671855887912821
+      }
+    },
+    "files": [
+      {
+        "identity": 194,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 5,
+"file_id": 105
+        }
+      }
+    ],
+    "topic": {
+"identity": 45,
+"labels": [
+        "Topic"
+      ],
+"properties": {
+"volume": 332449,
+"role": "Gamma",
+"topic_id": 21,
+"density": 6441.900005824865
+      }
+    }
+  },
+  {
+    "producer": {
+"identity": 108,
+"labels": [
+        "Producer"
+      ],
+"properties": {
+"volume": 153328,
+"role": "Alpha",
+"density": 4046.4000129699707,
+"production": 0.011119759813188036,
+"user_id": 1624593034,
+"consume_others": 1.6457244523518293,
+"consume": 0.0
+      }
+    },
+    "files": [
+      {
+        "identity": 109,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 7,
+"file_id": 6
+        }
+      }
+    ],
+    "topic": {
+"identity": 45,
+"labels": [
+        "Topic"
+      ],
+"properties": {
+"volume": 332449,
+"role": "Gamma",
+"topic_id": 21,
+"density": 6441.900005824865
+      }
+    }
+  },
+  {
+    "producer": {
+"identity": 94,
+"labels": [
+        "Producer"
+      ],
+"properties": {
+"volume": 37647,
+"role": "Gamma",
+"density": 2307.2999859452248,
+"production": 0.044479039252752144,
+"user_id": 350781937,
+"consume_others": 0.9896586233737352,
+"consume": 0.0
+      }
+    },
+    "files": [
+      {
+        "identity": 98,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 4,
+"file_id": 109
+        }
+      }
+    ],
+    "topic": {
+"identity": 45,
+"labels": [
+        "Topic"
+      ],
+"properties": {
+"volume": 332449,
+"role": "Gamma",
+"topic_id": 21,
+"density": 6441.900005824865
+      }
+    }
+  },
+  {
+    "producer": {
+"identity": 43,
+"labels": [
+        "Producer"
+      ],
+"properties": {
+"volume": 2700,
+"role": "Gamma",
+"density": 148.5999991297722,
+"production": 0.011119759813188036,
+"user_id": 40238620,
+"consume_others": 0.33359279439564105,
+"consume": 0.0
+      }
+    },
+    "files": [
+      {
+        "identity": 44,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 3,
+"file_id": 91
+        }
+      }
+    ],
+    "topic": {
+"identity": 45,
+"labels": [
+        "Topic"
+      ],
+"properties": {
+"volume": 332449,
+"role": "Gamma",
+"topic_id": 21,
+"density": 6441.900005824865
+      }
+    }
+  },
+  {
+    "producer": {
+"identity": 197,
+"labels": [
+        "Producer"
+      ],
+"properties": {
+"volume": 40500,
+"role": "Gamma",
+"density": 3630.800004124642,
+"production": 0.011119759813188036,
+"user_id": 599410,
+"consume_others": 1.0007783831869232,
+"consume": 0.23351495607694875
+      }
+    },
+    "files": [
+      {
+        "identity": 198,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 5,
+"file_id": 95
+        }
+      }
+    ],
+    "topic": {
+"identity": 53,
+"labels": [
+        "Topic"
+      ],
+"properties": {
+"volume": 3055415,
+"role": "Alpha",
+"topic_id": 1,
+"density": 58781.09995573759
+      }
+    }
+  },
+  {
+    "producer": {
+"identity": 173,
+"labels": [
+        "Producer"
+      ],
+"properties": {
+"volume": 112500,
+"role": "Gamma",
+"density": 20786.283340454098,
+"production": 0.011119759813188036,
+"user_id": 9187952,
+"consume_others": 1.6679639719782051,
+"consume": 0.0
+      }
+    },
+    "files": [
+      {
+        "identity": 174,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 5,
+"file_id": 87
+        }
+      }
+    ],
+    "topic": {
+"identity": 53,
+"labels": [
+        "Topic"
+      ],
+"properties": {
+"volume": 3055415,
+"role": "Alpha",
+"topic_id": 1,
+"density": 58781.09995573759
+      }
+    }
+  },
+  {
+    "producer": {
+"identity": 165,
+"labels": [
+        "Producer"
+      ],
+"properties": {
+"volume": 157500,
+"role": "Beta",
+"density": 16987.133277893066,
+"user_id": 12995776,
+"production": 0.011119759813188036,
+"consume_others": 1.6679639719782051,
+"consume": 0.0
+      }
+    },
+    "files": [
+      {
+        "identity": 166,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 7,
+"file_id": 32
+        }
+      }
+    ],
+    "topic": {
+"identity": 53,
+"labels": [
+        "Topic"
+      ],
+"properties": {
+"volume": 3055415,
+"role": "Alpha",
+"topic_id": 1,
+"density": 58781.09995573759
+      }
+    }
+  },
+  {
+    "producer": {
+"identity": 154,
+"labels": [
+        "Producer"
+      ],
+"properties": {
+"volume": 5,
+"role": "Gamma",
+"density": 45.88333511352539,
+"production": 0.011119759813188036,
+"user_id": 2281686065,
+"consume_others": 0.011119759813188036,
+"consume": 0.0
+      }
+    },
+    "files": [
+      {
+        "identity": 155,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 5,
+"file_id": 85
+        }
+      }
+    ],
+    "topic": {
+"identity": 53,
+"labels": [
+        "Topic"
+      ],
+"properties": {
+"volume": 3055415,
+"role": "Alpha",
+"topic_id": 1,
+"density": 58781.09995573759
+      }
+    }
+  },
+  {
+    "producer": {
+"identity": 152,
+"labels": [
+        "Producer"
+      ],
+"properties": {
+"volume": 135000,
+"role": "Alpha",
+"density": 12476.266677856443,
+"production": 0.011119759813188036,
+"user_id": 1906837,
+"consume_others": 1.6679639719782051,
+"consume": 0.0
+      }
+    },
+    "files": [
+      {
+        "identity": 153,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 6,
+"file_id": 99
+        }
+      }
+    ],
+    "topic": {
+"identity": 53,
+"labels": [
+        "Topic"
+      ],
+"properties": {
+"volume": 3055415,
+"role": "Alpha",
+"topic_id": 1,
+"density": 58781.09995573759
+      }
+    }
+  },
+  {
+    "producer": {
+"identity": 150,
+"labels": [
+        "Producer"
+      ],
+"properties": {
+"volume": 4,
+"role": "Gamma",
+"density": 45.849998474121094,
+"production": 0.011119759813188036,
+"user_id": 1526304074,
+"consume_others": 0.011119759813188036,
+"consume": 0.0
+      }
+    },
+    "files": [
+      {
+        "identity": 151,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 4,
+"file_id": 94
+        }
+      }
+    ],
+    "topic": {
+"identity": 53,
+"labels": [
+        "Topic"
+      ],
+"properties": {
+"volume": 3055415,
+"role": "Alpha",
+"topic_id": 1,
+"density": 58781.09995573759
+      }
+    }
+  },
+  {
+    "producer": {
+"identity": 148,
+"labels": [
+        "Producer"
+      ],
+"properties": {
+"volume": 1620,
+"role": "Gamma",
+"density": 785.9833298921585,
+"production": 0.011119759813188036,
+"user_id": 2357503665,
+"consume_others": 0.20015567663738465,
+"consume": 0.055598799065940174
+      }
+    },
+    "files": [
+      {
+        "identity": 149,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 5,
+"file_id": 29
+        }
+      }
+    ],
+    "topic": {
+"identity": 53,
+"labels": [
+        "Topic"
+      ],
+"properties": {
+"volume": 3055415,
+"role": "Alpha",
+"topic_id": 1,
+"density": 58781.09995573759
+      }
+    }
+  },
+  {
+    "producer": {
+"identity": 105,
+"labels": [
+        "Producer"
+      ],
+"properties": {
+"volume": 314622,
+"role": "Alpha",
+"density": 5794.116654217242,
+"production": 0.022239519626376072,
+"user_id": 144646783,
+"consume_others": 2.568664516846436,
+"consume": 0.0
+      }
+    },
+    "files": [
+      {
+        "identity": 106,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 4,
+"file_id": 86
+        }
+      }
+    ],
+    "topic": {
+"identity": 53,
+"labels": [
+        "Topic"
+      ],
+"properties": {
+"volume": 3055415,
+"role": "Alpha",
+"topic_id": 1,
+"density": 58781.09995573759
+      }
+    }
+  },
+  {
+    "producer": {
+"identity": 94,
+"labels": [
+        "Producer"
+      ],
+"properties": {
+"volume": 37647,
+"role": "Gamma",
+"density": 2307.2999859452248,
+"production": 0.044479039252752144,
+"user_id": 350781937,
+"consume_others": 0.9896586233737352,
+"consume": 0.0
+      }
+    },
+    "files": [
+      {
+        "identity": 96,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 6,
+"file_id": 15
+        }
+      }
+    ],
+    "topic": {
+"identity": 53,
+"labels": [
+        "Topic"
+      ],
+"properties": {
+"volume": 3055415,
+"role": "Alpha",
+"topic_id": 1,
+"density": 58781.09995573759
+      }
+    }
+  },
+  {
+    "producer": {
+"identity": 65,
+"labels": [
+        "Producer"
+      ],
+"properties": {
+"volume": 20,
+"role": "Gamma",
+"density": 15.166666388511658,
+"production": 0.011119759813188036,
+"user_id": 44902119,
+"consume_others": 0.022239519626376072,
+"consume": 0.0
+      }
+    },
+    "files": [
+      {
+        "identity": 66,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 5,
+"file_id": 79
+        }
+      }
+    ],
+    "topic": {
+"identity": 53,
+"labels": [
+        "Topic"
+      ],
+"properties": {
+"volume": 3055415,
+"role": "Alpha",
+"topic_id": 1,
+"density": 58781.09995573759
+      }
+    }
+  },
+  {
+    "producer": {
+"identity": 51,
+"labels": [
+        "Producer"
+      ],
+"properties": {
+"volume": 21316,
+"role": "Gamma",
+"density": 2588.516661643982,
+"production": 0.011119759813188036,
+"user_id": 9777455,
+"consume_others": 1.623484932725453,
+"consume": 0.0
+      }
+    },
+    "files": [
+      {
+        "identity": 52,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 1,
+"file_id": 33
+        }
+      }
+    ],
+    "topic": {
+"identity": 53,
+"labels": [
+        "Topic"
+      ],
+"properties": {
+"volume": 3055415,
+"role": "Alpha",
+"topic_id": 1,
+"density": 58781.09995573759
+      }
+    }
+  },
+  {
+    "producer": {
+"identity": 214,
+"labels": [
+        "Producer"
+      ],
+"properties": {
+"volume": 135000,
+"role": "Alpha",
+"density": 11792.016642570496,
+"production": 0.011119759813188036,
+"user_id": 1921298,
+"consume_others": 1.6679639719782051,
+"consume": 0.0
+      }
+    },
+    "files": [
+      {
+        "identity": 215,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 6,
+"file_id": 58
+        }
+      }
+    ],
+    "topic": {
+"identity": 64,
+"labels": [
+        "Topic"
+      ],
+"properties": {
+"volume": 646877,
+"role": "Gamma",
+"topic_id": 18,
+"density": 17116.316642597318
+      }
+    }
+  },
+  {
+    "producer": {
+"identity": 201,
+"labels": [
+        "Producer"
+      ],
+"properties": {
+"volume": 14400,
+"role": "Gamma",
+"density": 2611.5999928712845,
+"production": 0.011119759813188036,
+"user_id": 9036879,
+"consume_others": 0.6671855887912821,
+"consume": 0.0
+      }
+    },
+    "files": [
+      {
+        "identity": 202,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 4,
+"file_id": 65
+        }
+      }
+    ],
+    "topic": {
+"identity": 64,
+"labels": [
+        "Topic"
+      ],
+"properties": {
+"volume": 646877,
+"role": "Gamma",
+"topic_id": 18,
+"density": 17116.316642597318
+      }
+    }
+  },
+  {
+    "producer": {
+"identity": 181,
+"labels": [
+        "Producer"
+      ],
+"properties": {
+"volume": 2645,
+"role": "Gamma",
+"density": 935.6833438873292,
+"production": 0.011119759813188036,
+"user_id": 474640424,
+"consume_others": 0.2557544757033248,
+"consume": 0.055598799065940174
+      }
+    },
+    "files": [
+      {
+        "identity": 182,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 5,
+"file_id": 59
+        }
+      }
+    ],
+    "topic": {
+"identity": 64,
+"labels": [
+        "Topic"
+      ],
+"properties": {
+"volume": 646877,
+"role": "Gamma",
+"topic_id": 18,
+"density": 17116.316642597318
+      }
+    }
+  },
+  {
+    "producer": {
+"identity": 94,
+"labels": [
+        "Producer"
+      ],
+"properties": {
+"volume": 37647,
+"role": "Gamma",
+"density": 2307.2999859452248,
+"production": 0.044479039252752144,
+"user_id": 350781937,
+"consume_others": 0.9896586233737352,
+"consume": 0.0
+      }
+    },
+    "files": [
+      {
+        "identity": 97,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 1,
+"file_id": 63
+        }
+      }
+    ],
+    "topic": {
+"identity": 64,
+"labels": [
+        "Topic"
+      ],
+"properties": {
+"volume": 646877,
+"role": "Gamma",
+"topic_id": 18,
+"density": 17116.316642597318
+      }
+    }
+  },
+  {
+    "producer": {
+"identity": 60,
+"labels": [
+        "Producer"
+      ],
+"properties": {
+"volume": 314550,
+"role": "Alpha",
+"density": 3371.7333292514095,
+"production": 0.033359279439564106,
+"user_id": 1574083,
+"consume_others": 3.0023351495607686,
+"consume": 0.0
+      }
+    },
+    "files": [
+      {
+        "identity": 63,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 7,
+"file_id": 61
+        }
+      }
+    ],
+    "topic": {
+"identity": 64,
+"labels": [
+        "Topic"
+      ],
+"properties": {
+"volume": 646877,
+"role": "Gamma",
+"topic_id": 18,
+"density": 17116.316642597318
+      }
+    }
+  },
+  {
+    "producer": {
+"identity": 80,
+"labels": [
+        "Producer"
+      ],
+"properties": {
+"volume": 3816,
+"role": "Gamma",
+"density": 471.26666897535324,
+"production": 0.022239519626376072,
+"user_id": 32337339,
+"consume_others": 0.26687423551651285,
+"consume": 0.17791615701100855
+      }
+    },
+    "files": [
+      {
+        "identity": 82,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 8,
+"file_id": 42
+        }
+      }
+    ],
+    "topic": {
+"identity": 83,
+"labels": [
+        "Topic"
+      ],
+"properties": {
+"volume": 1352,
+"role": "Gamma",
+"topic_id": 25,
+"density": 231.7499997019768
+      }
+    }
+  }
+]

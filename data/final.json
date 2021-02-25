@@ -1,0 +1,1391 @@
+﻿[
+  {
+    "producer": {
+"uid": 7686242,
+"role": "Gamma",
+"node_id": 179
+    },
+    "files": [
+      180
+    ],
+    "topic": [
+      {
+        "node_id": 2,
+        "role": "Alpha"
+      }
+    ]
+  },
+  {
+    "producer": {
+"uid": 3052048,
+"role": "Gamma",
+"node_id": 139
+    },
+    "files": [
+      140
+    ],
+    "topic": [
+      {
+        "node_id": 2,
+        "role": "Alpha"
+      }
+    ]
+  },
+  {
+    "producer": {
+"uid": 4616106,
+"role": "Gamma",
+"node_id": 137
+    },
+    "files": [
+      138
+    ],
+    "topic": [
+      {
+        "node_id": 2,
+        "role": "Alpha"
+      }
+    ]
+  },
+  {
+    "producer": {
+"uid": 217867189,
+"role": "Gamma",
+"node_id": 121
+    },
+    "files": [
+      122
+    ],
+    "topic": [
+      {
+        "node_id": 2,
+        "role": "Alpha"
+      }
+    ]
+  },
+  {
+    "producer": {
+"uid": 23793248,
+"role": "Gamma",
+"node_id": 119
+    },
+    "files": [
+      120
+    ],
+    "topic": [
+      {
+        "node_id": 2,
+        "role": "Alpha"
+      }
+    ]
+  },
+  {
+    "producer": {
+"uid": 145821237,
+"role": "Beta",
+"node_id": 110
+    },
+    "files": [
+      116,
+      111,
+      115,
+      112,
+      114,
+      113
+    ],
+    "topic": [
+      {
+        "node_id": 2,
+        "role": "Alpha"
+      },
+      {
+        "node_id": 2,
+        "role": "Alpha"
+      },
+      {
+        "node_id": 14,
+        "role": "Beta"
+      },
+      {
+        "node_id": 19,
+        "role": "Gamma"
+      },
+      {
+        "node_id": 23,
+        "role": "Alpha"
+      },
+      {
+        "node_id": 26,
+        "role": "Alpha"
+      }
+    ]
+  },
+  {
+    "producer": {
+"uid": 144646783,
+"role": "Alpha",
+"node_id": 105
+    },
+    "files": [
+      107,
+      106
+    ],
+    "topic": [
+      {
+        "node_id": 2,
+        "role": "Alpha"
+      },
+      {
+        "node_id": 53,
+        "role": "Alpha"
+      }
+    ]
+  },
+  {
+    "producer": {
+"uid": 1987740163,
+"role": "Gamma",
+"node_id": 67
+    },
+    "files": [
+      68
+    ],
+    "topic": [
+      {
+        "node_id": 2,
+        "role": "Alpha"
+      }
+    ]
+  },
+  {
+    "producer": {
+"uid": 742756569,
+"role": "Alpha",
+"node_id": 38
+    },
+    "files": [
+      41,
+      39,
+      42,
+      40
+    ],
+    "topic": [
+      {
+        "node_id": 2,
+        "role": "Alpha"
+      },
+      {
+        "node_id": 2,
+        "role": "Alpha"
+      },
+      {
+        "node_id": 12,
+        "role": "Gamma"
+      },
+      {
+        "node_id": 29,
+        "role": "Beta"
+      }
+    ]
+  },
+  {
+    "producer": {
+"uid": 514663404,
+"role": "Gamma",
+"node_id": 30
+    },
+    "files": [
+      33,
+      31
+    ],
+    "topic": [
+      {
+        "node_id": 2,
+        "role": "Alpha"
+      },
+      {
+        "node_id": 32,
+        "role": "Gamma"
+      }
+    ]
+  },
+  {
+    "producer": {
+"uid": 301763305,
+"role": "Alpha",
+"node_id": 17
+    },
+    "files": [
+      20,
+      18
+    ],
+    "topic": [
+      {
+        "node_id": 2,
+        "role": "Alpha"
+      },
+      {
+        "node_id": 19,
+        "role": "Gamma"
+      }
+    ]
+  },
+  {
+    "producer": {
+"uid": 3416684,
+"role": "Gamma",
+"node_id": 3
+    },
+    "files": [
+      4
+    ],
+    "topic": [
+      {
+        "node_id": 2,
+        "role": "Alpha"
+      }
+    ]
+  },
+  {
+    "producer": {
+"uid": 43114731,
+"role": "Gamma",
+"node_id": 0
+    },
+    "files": [
+      1
+    ],
+    "topic": [
+      {
+        "node_id": 2,
+        "role": "Alpha"
+      }
+    ]
+  },
+  {
+    "producer": {
+"uid": 787132,
+"role": "Gamma",
+"node_id": 5
+    },
+    "files": [
+      6,
+      8
+    ],
+    "topic": [
+      {
+        "node_id": 7,
+        "role": "Gamma"
+      },
+      {
+        "node_id": 9,
+        "role": "Gamma"
+      }
+    ]
+  },
+  {
+    "producer": {
+"uid": 330415280,
+"role": "Gamma",
+"node_id": 169
+    },
+    "files": [
+      170
+    ],
+    "topic": [
+      {
+        "node_id": 9,
+        "role": "Gamma"
+      }
+    ]
+  },
+  {
+    "producer": {
+"uid": 350781937,
+"role": "Gamma",
+"node_id": 94
+    },
+    "files": [
+      95,
+      98,
+      96,
+      97
+    ],
+    "topic": [
+      {
+        "node_id": 9,
+        "role": "Gamma"
+      },
+      {
+        "node_id": 45,
+        "role": "Gamma"
+      },
+      {
+        "node_id": 53,
+        "role": "Alpha"
+      },
+      {
+        "node_id": 64,
+        "role": "Gamma"
+      }
+    ]
+  },
+  {
+    "producer": {
+"uid": 241246893,
+"role": "Gamma",
+"node_id": 15
+    },
+    "files": [
+      16
+    ],
+    "topic": [
+      {
+        "node_id": 9,
+        "role": "Gamma"
+      }
+    ]
+  },
+  {
+    "producer": {
+"uid": 259220806,
+"role": "Beta",
+"node_id": 10
+    },
+    "files": [
+      11,
+      13
+    ],
+    "topic": [
+      {
+        "node_id": 12,
+        "role": "Gamma"
+      },
+      {
+        "node_id": 14,
+        "role": "Beta"
+      }
+    ]
+  },
+  {
+    "producer": {
+"uid": 218549275,
+"role": "Alpha",
+"node_id": 187
+    },
+    "files": [
+      188
+    ],
+    "topic": [
+      {
+        "node_id": 14,
+        "role": "Beta"
+      }
+    ]
+  },
+  {
+    "producer": {
+"uid": 5087794,
+"role": "Gamma",
+"node_id": 175
+    },
+    "files": [
+      176
+    ],
+    "topic": [
+      {
+        "node_id": 14,
+        "role": "Beta"
+      }
+    ]
+  },
+  {
+    "producer": {
+"uid": 1450621,
+"role": "Gamma",
+"node_id": 117
+    },
+    "files": [
+      118
+    ],
+    "topic": [
+      {
+        "node_id": 14,
+        "role": "Beta"
+      }
+    ]
+  },
+  {
+    "producer": {
+"uid": 775740654,
+"role": "Alpha",
+"node_id": 89
+    },
+    "files": [
+      90
+    ],
+    "topic": [
+      {
+        "node_id": 14,
+        "role": "Beta"
+      }
+    ]
+  },
+  {
+    "producer": {
+"uid": 208560325,
+"role": "Beta",
+"node_id": 76
+    },
+    "files": [
+      79,
+      78,
+      77
+    ],
+    "topic": [
+      {
+        "node_id": 14,
+        "role": "Beta"
+      },
+      {
+        "node_id": 23,
+        "role": "Alpha"
+      },
+      {
+        "node_id": 26,
+        "role": "Alpha"
+      }
+    ]
+  },
+  {
+    "producer": {
+"uid": 189379530,
+"role": "Alpha",
+"node_id": 74
+    },
+    "files": [
+      75
+    ],
+    "topic": [
+      {
+        "node_id": 14,
+        "role": "Beta"
+      }
+    ]
+  },
+  {
+    "producer": {
+"uid": 4769265,
+"role": "Gamma",
+"node_id": 72
+    },
+    "files": [
+      73
+    ],
+    "topic": [
+      {
+        "node_id": 14,
+        "role": "Beta"
+      }
+    ]
+  },
+  {
+    "producer": {
+"uid": 54603025,
+"role": "Gamma",
+"node_id": 156
+    },
+    "files": [
+      157
+    ],
+    "topic": [
+      {
+        "node_id": 19,
+        "role": "Gamma"
+      }
+    ]
+  },
+  {
+    "producer": {
+"uid": 182144062,
+"role": "Gamma",
+"node_id": 183
+    },
+    "files": [
+      184
+    ],
+    "topic": [
+      {
+        "node_id": 23,
+        "role": "Alpha"
+      }
+    ]
+  },
+  {
+    "producer": {
+"uid": 337872647,
+"role": "Gamma",
+"node_id": 177
+    },
+    "files": [
+      178
+    ],
+    "topic": [
+      {
+        "node_id": 23,
+        "role": "Alpha"
+      }
+    ]
+  },
+  {
+    "producer": {
+"uid": 50804348,
+"role": "Gamma",
+"node_id": 171
+    },
+    "files": [
+      172
+    ],
+    "topic": [
+      {
+        "node_id": 23,
+        "role": "Alpha"
+      }
+    ]
+  },
+  {
+    "producer": {
+"uid": 1463412041,
+"role": "Gamma",
+"node_id": 144
+    },
+    "files": [
+      145
+    ],
+    "topic": [
+      {
+        "node_id": 23,
+        "role": "Alpha"
+      }
+    ]
+  },
+  {
+    "producer": {
+"uid": 1576246743,
+"role": "Gamma",
+"node_id": 123
+    },
+    "files": [
+      125,
+      124
+    ],
+    "topic": [
+      {
+        "node_id": 23,
+        "role": "Alpha"
+      },
+      {
+        "node_id": 23,
+        "role": "Alpha"
+      }
+    ]
+  },
+  {
+    "producer": {
+"uid": 19769622,
+"role": "Alpha",
+"node_id": 91
+    },
+    "files": [
+      92,
+      93
+    ],
+    "topic": [
+      {
+        "node_id": 23,
+        "role": "Alpha"
+      },
+      {
+        "node_id": 29,
+        "role": "Beta"
+      }
+    ]
+  },
+  {
+    "producer": {
+"uid": 6590609,
+"role": "Gamma",
+"node_id": 54
+    },
+    "files": [
+      55
+    ],
+    "topic": [
+      {
+        "node_id": 23,
+        "role": "Alpha"
+      }
+    ]
+  },
+  {
+    "producer": {
+"uid": 36045182,
+"role": "Gamma",
+"node_id": 21
+    },
+    "files": [
+      22
+    ],
+    "topic": [
+      {
+        "node_id": 23,
+        "role": "Alpha"
+      }
+    ]
+  },
+  {
+    "producer": {
+"uid": 16516077,
+"role": "Gamma",
+"node_id": 208
+    },
+    "files": [
+      209
+    ],
+    "topic": [
+      {
+        "node_id": 26,
+        "role": "Alpha"
+      }
+    ]
+  },
+  {
+    "producer": {
+"uid": 4721025,
+"role": "Gamma",
+"node_id": 199
+    },
+    "files": [
+      200
+    ],
+    "topic": [
+      {
+        "node_id": 26,
+        "role": "Alpha"
+      }
+    ]
+  },
+  {
+    "producer": {
+"uid": 10581097,
+"role": "Alpha",
+"node_id": 189
+    },
+    "files": [
+      190
+    ],
+    "topic": [
+      {
+        "node_id": 26,
+        "role": "Alpha"
+      }
+    ]
+  },
+  {
+    "producer": {
+"uid": 5573182,
+"role": "Gamma",
+"node_id": 167
+    },
+    "files": [
+      168
+    ],
+    "topic": [
+      {
+        "node_id": 26,
+        "role": "Alpha"
+      }
+    ]
+  },
+  {
+    "producer": {
+"uid": 1125647,
+"role": "Gamma",
+"node_id": 160
+    },
+    "files": [
+      161
+    ],
+    "topic": [
+      {
+        "node_id": 26,
+        "role": "Alpha"
+      }
+    ]
+  },
+  {
+    "producer": {
+"uid": 1574083,
+"role": "Alpha",
+"node_id": 60
+    },
+    "files": [
+      62,
+      61,
+      63
+    ],
+    "topic": [
+      {
+        "node_id": 26,
+        "role": "Alpha"
+      },
+      {
+        "node_id": 32,
+        "role": "Gamma"
+      },
+      {
+        "node_id": 64,
+        "role": "Gamma"
+      }
+    ]
+  },
+  {
+    "producer": {
+"uid": 23678829,
+"role": "Gamma",
+"node_id": 34
+    },
+    "files": [
+      35
+    ],
+    "topic": [
+      {
+        "node_id": 26,
+        "role": "Alpha"
+      }
+    ]
+  },
+  {
+    "producer": {
+"uid": 9868480,
+"role": "Gamma",
+"node_id": 24
+    },
+    "files": [
+      25
+    ],
+    "topic": [
+      {
+        "node_id": 26,
+        "role": "Alpha"
+      }
+    ]
+  },
+  {
+    "producer": {
+"uid": 193288192,
+"role": "Gamma",
+"node_id": 220
+    },
+    "files": [
+      221
+    ],
+    "topic": [
+      {
+        "node_id": 29,
+        "role": "Beta"
+      }
+    ]
+  },
+  {
+    "producer": {
+"uid": 48804988,
+"role": "Beta",
+"node_id": 216
+    },
+    "files": [
+      217
+    ],
+    "topic": [
+      {
+        "node_id": 29,
+        "role": "Beta"
+      }
+    ]
+  },
+  {
+    "producer": {
+"uid": 280526827,
+"role": "Gamma",
+"node_id": 212
+    },
+    "files": [
+      213
+    ],
+    "topic": [
+      {
+        "node_id": 29,
+        "role": "Beta"
+      }
+    ]
+  },
+  {
+    "producer": {
+"uid": 33123285,
+"role": "Gamma",
+"node_id": 206
+    },
+    "files": [
+      207
+    ],
+    "topic": [
+      {
+        "node_id": 29,
+        "role": "Beta"
+      }
+    ]
+  },
+  {
+    "producer": {
+"uid": 178522459,
+"role": "Gamma",
+"node_id": 195
+    },
+    "files": [
+      196
+    ],
+    "topic": [
+      {
+        "node_id": 29,
+        "role": "Beta"
+      }
+    ]
+  },
+  {
+    "producer": {
+"uid": 230447982,
+"role": "Gamma",
+"node_id": 185
+    },
+    "files": [
+      186
+    ],
+    "topic": [
+      {
+        "node_id": 29,
+        "role": "Beta"
+      }
+    ]
+  },
+  {
+    "producer": {
+"uid": 9473172,
+"role": "Beta",
+"node_id": 162
+    },
+    "files": [
+      164,
+      163
+    ],
+    "topic": [
+      {
+        "node_id": 29,
+        "role": "Beta"
+      },
+      {
+        "node_id": 29,
+        "role": "Beta"
+      }
+    ]
+  },
+  {
+    "producer": {
+"uid": 908420976,
+"role": "Gamma",
+"node_id": 101
+    },
+    "files": [
+      102
+    ],
+    "topic": [
+      {
+        "node_id": 29,
+        "role": "Beta"
+      }
+    ]
+  },
+  {
+    "producer": {
+"uid": 4140744,
+"role": "Gamma",
+"node_id": 99
+    },
+    "files": [
+      100
+    ],
+    "topic": [
+      {
+        "node_id": 29,
+        "role": "Beta"
+      }
+    ]
+  },
+  {
+    "producer": {
+"uid": 176595831,
+"role": "Gamma",
+"node_id": 58
+    },
+    "files": [
+      59
+    ],
+    "topic": [
+      {
+        "node_id": 29,
+        "role": "Beta"
+      }
+    ]
+  },
+  {
+    "producer": {
+"uid": 816371,
+"role": "Gamma",
+"node_id": 56
+    },
+    "files": [
+      57
+    ],
+    "topic": [
+      {
+        "node_id": 29,
+        "role": "Beta"
+      }
+    ]
+  },
+  {
+    "producer": {
+"uid": 722877997,
+"role": "Gamma",
+"node_id": 48
+    },
+    "files": [
+      49,
+      50
+    ],
+    "topic": [
+      {
+        "node_id": 29,
+        "role": "Beta"
+      },
+      {
+        "node_id": 32,
+        "role": "Gamma"
+      }
+    ]
+  },
+  {
+    "producer": {
+"uid": 325848806,
+"role": "Gamma",
+"node_id": 46
+    },
+    "files": [
+      47
+    ],
+    "topic": [
+      {
+        "node_id": 29,
+        "role": "Beta"
+      }
+    ]
+  },
+  {
+    "producer": {
+"uid": 195270438,
+"role": "Gamma",
+"node_id": 27
+    },
+    "files": [
+      28
+    ],
+    "topic": [
+      {
+        "node_id": 29,
+        "role": "Beta"
+      }
+    ]
+  },
+  {
+    "producer": {
+"uid": 9675477,
+"role": "Gamma",
+"node_id": 146
+    },
+    "files": [
+      147
+    ],
+    "topic": [
+      {
+        "node_id": 32,
+        "role": "Gamma"
+      }
+    ]
+  },
+  {
+    "producer": {
+"uid": 304662892,
+"role": "Gamma",
+"node_id": 135
+    },
+    "files": [
+      136
+    ],
+    "topic": [
+      {
+        "node_id": 32,
+        "role": "Gamma"
+      }
+    ]
+  },
+  {
+    "producer": {
+"uid": 615435612,
+"role": "Gamma",
+"node_id": 126
+    },
+    "files": [
+      127
+    ],
+    "topic": [
+      {
+        "node_id": 32,
+        "role": "Gamma"
+      }
+    ]
+  },
+  {
+    "producer": {
+"uid": 28436913,
+"role": "Gamma",
+"node_id": 103
+    },
+    "files": [
+      104
+    ],
+    "topic": [
+      {
+        "node_id": 32,
+        "role": "Gamma"
+      }
+    ]
+  },
+  {
+    "producer": {
+"uid": 12456888,
+"role": "Gamma",
+"node_id": 87
+    },
+    "files": [
+      88
+    ],
+    "topic": [
+      {
+        "node_id": 32,
+        "role": "Gamma"
+      }
+    ]
+  },
+  {
+    "producer": {
+"uid": 32337339,
+"role": "Gamma",
+"node_id": 80
+    },
+    "files": [
+      81,
+      82
+    ],
+    "topic": [
+      {
+        "node_id": 32,
+        "role": "Gamma"
+      },
+      {
+        "node_id": 83,
+        "role": "Gamma"
+      }
+    ]
+  },
+  {
+    "producer": {
+"uid": 9942499,
+"role": "Gamma",
+"node_id": 36
+    },
+    "files": [
+      37
+    ],
+    "topic": [
+      {
+        "node_id": 32,
+        "role": "Gamma"
+      }
+    ]
+  },
+  {
+    "producer": {
+"uid": 1785849650,
+"role": "Gamma",
+"node_id": 218
+    },
+    "files": [
+      219
+    ],
+    "topic": [
+      {
+        "node_id": 45,
+        "role": "Gamma"
+      }
+    ]
+  },
+  {
+    "producer": {
+"uid": 511234658,
+"role": "Gamma",
+"node_id": 193
+    },
+    "files": [
+      194
+    ],
+    "topic": [
+      {
+        "node_id": 45,
+        "role": "Gamma"
+      }
+    ]
+  },
+  {
+    "producer": {
+"uid": 1624593034,
+"role": "Alpha",
+"node_id": 108
+    },
+    "files": [
+      109
+    ],
+    "topic": [
+      {
+        "node_id": 45,
+        "role": "Gamma"
+      }
+    ]
+  },
+  {
+    "producer": {
+"uid": 40238620,
+"role": "Gamma",
+"node_id": 43
+    },
+    "files": [
+      44
+    ],
+    "topic": [
+      {
+        "node_id": 45,
+        "role": "Gamma"
+      }
+    ]
+  },
+  {
+    "producer": {
+"uid": 599410,
+"role": "Gamma",
+"node_id": 197
+    },
+    "files": [
+      198
+    ],
+    "topic": [
+      {
+        "node_id": 53,
+        "role": "Alpha"
+      }
+    ]
+  },
+  {
+    "producer": {
+"uid": 9187952,
+"role": "Gamma",
+"node_id": 173
+    },
+    "files": [
+      174
+    ],
+    "topic": [
+      {
+        "node_id": 53,
+        "role": "Alpha"
+      }
+    ]
+  },
+  {
+    "producer": {
+"uid": 12995776,
+"role": "Beta",
+"node_id": 165
+    },
+    "files": [
+      166
+    ],
+    "topic": [
+      {
+        "node_id": 53,
+        "role": "Alpha"
+      }
+    ]
+  },
+  {
+    "producer": {
+"uid": 2281686065,
+"role": "Gamma",
+"node_id": 154
+    },
+    "files": [
+      155
+    ],
+    "topic": [
+      {
+        "node_id": 53,
+        "role": "Alpha"
+      }
+    ]
+  },
+  {
+    "producer": {
+"uid": 1906837,
+"role": "Alpha",
+"node_id": 152
+    },
+    "files": [
+      153
+    ],
+    "topic": [
+      {
+        "node_id": 53,
+        "role": "Alpha"
+      }
+    ]
+  },
+  {
+    "producer": {
+"uid": 1526304074,
+"role": "Gamma",
+"node_id": 150
+    },
+    "files": [
+      151
+    ],
+    "topic": [
+      {
+        "node_id": 53,
+        "role": "Alpha"
+      }
+    ]
+  },
+  {
+    "producer": {
+"uid": 2357503665,
+"role": "Gamma",
+"node_id": 148
+    },
+    "files": [
+      149
+    ],
+    "topic": [
+      {
+        "node_id": 53,
+        "role": "Alpha"
+      }
+    ]
+  },
+  {
+    "producer": {
+"uid": 44902119,
+"role": "Gamma",
+"node_id": 65
+    },
+    "files": [
+      66
+    ],
+    "topic": [
+      {
+        "node_id": 53,
+        "role": "Alpha"
+      }
+    ]
+  },
+  {
+    "producer": {
+"uid": 9777455,
+"role": "Gamma",
+"node_id": 51
+    },
+    "files": [
+      52
+    ],
+    "topic": [
+      {
+        "node_id": 53,
+        "role": "Alpha"
+      }
+    ]
+  },
+  {
+    "producer": {
+"uid": 1921298,
+"role": "Alpha",
+"node_id": 214
+    },
+    "files": [
+      215
+    ],
+    "topic": [
+      {
+        "node_id": 64,
+        "role": "Gamma"
+      }
+    ]
+  },
+  {
+    "producer": {
+"uid": 9036879,
+"role": "Gamma",
+"node_id": 201
+    },
+    "files": [
+      202
+    ],
+    "topic": [
+      {
+        "node_id": 64,
+        "role": "Gamma"
+      }
+    ]
+  },
+  {
+    "producer": {
+"uid": 474640424,
+"role": "Gamma",
+"node_id": 181
+    },
+    "files": [
+      182
+    ],
+    "topic": [
+      {
+        "node_id": 64,
+        "role": "Gamma"
+      }
+    ]
+  }
+]

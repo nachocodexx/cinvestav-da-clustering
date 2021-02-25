@@ -1,0 +1,1446 @@
+﻿[
+  {
+    "topic": {
+"identity": 2,
+"labels": [
+        "Topic"
+      ],
+"properties": {
+"volume": 5167328,
+"role": "Alpha",
+"topic_id": 17,
+"density": 47838.2333265692
+      }
+    },
+    "nodes": [
+      {
+        "identity": 180,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 5,
+"file_id": 30
+        }
+      },
+      {
+        "identity": 140,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 3,
+"file_id": 24
+        }
+      },
+      {
+        "identity": 138,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 2,
+"file_id": 28
+        }
+      },
+      {
+        "identity": 122,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 5,
+"file_id": 112
+        }
+      },
+      {
+        "identity": 120,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 5,
+"file_id": 104
+        }
+      },
+      {
+        "identity": 116,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 6,
+"file_id": 82
+        }
+      },
+      {
+        "identity": 111,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 6,
+"file_id": 101
+        }
+      },
+      {
+        "identity": 107,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 7,
+"file_id": 9
+        }
+      },
+      {
+        "identity": 68,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 8,
+"file_id": 69
+        }
+      },
+      {
+        "identity": 41,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 5,
+"file_id": 93
+        }
+      },
+      {
+        "identity": 39,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 6,
+"file_id": 18
+        }
+      },
+      {
+        "identity": 33,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 6,
+"file_id": 73
+        }
+      },
+      {
+        "identity": 20,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 4,
+"file_id": 106
+        }
+      },
+      {
+        "identity": 4,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 4,
+"file_id": 21
+        }
+      },
+      {
+        "identity": 1,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 4,
+"file_id": 100
+        }
+      }
+    ]
+  },
+  {
+    "topic": {
+"identity": 7,
+"labels": [
+        "Topic"
+      ],
+"properties": {
+"volume": 3072,
+"role": "Gamma",
+"topic_id": 22,
+"density": 29.583333134651184
+      }
+    },
+    "nodes": [
+      {
+        "identity": 6,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 3,
+"file_id": 107
+        }
+      }
+    ]
+  },
+  {
+    "topic": {
+"identity": 9,
+"labels": [
+        "Topic"
+      ],
+"properties": {
+"volume": 204680,
+"role": "Gamma",
+"topic_id": 5,
+"density": 12843.766667693853
+      }
+    },
+    "nodes": [
+      {
+        "identity": 170,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 8,
+"file_id": 114
+        }
+      },
+      {
+        "identity": 95,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 8,
+"file_id": 35
+        }
+      },
+      {
+        "identity": 16,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 4,
+"file_id": 40
+        }
+      },
+      {
+        "identity": 8,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 3,
+"file_id": 103
+        }
+      }
+    ]
+  },
+  {
+    "topic": {
+"identity": 12,
+"labels": [
+        "Topic"
+      ],
+"properties": {
+"volume": 360000,
+"role": "Gamma",
+"topic_id": 10,
+"density": 9520.983328700066
+      }
+    },
+    "nodes": [
+      {
+        "identity": 42,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 5,
+"file_id": 92
+        }
+      },
+      {
+        "identity": 11,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 3,
+"file_id": 7
+        }
+      }
+    ]
+  },
+  {
+    "topic": {
+"identity": 14,
+"labels": [
+        "Topic"
+      ],
+"properties": {
+"volume": 7602267,
+"role": "Beta",
+"topic_id": 13,
+"density": 59864.29996819049
+      }
+    },
+    "nodes": [
+      {
+        "identity": 188,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 6,
+"file_id": 66
+        }
+      },
+      {
+        "identity": 176,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 4,
+"file_id": 3
+        }
+      },
+      {
+        "identity": 118,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 5,
+"file_id": 1
+        }
+      },
+      {
+        "identity": 115,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 6,
+"file_id": 14
+        }
+      },
+      {
+        "identity": 90,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 9,
+"file_id": 108
+        }
+      },
+      {
+        "identity": 79,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 9,
+"file_id": 67
+        }
+      },
+      {
+        "identity": 75,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 7,
+"file_id": 76
+        }
+      },
+      {
+        "identity": 73,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 7,
+"file_id": 64
+        }
+      },
+      {
+        "identity": 13,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 7,
+"file_id": 48
+        }
+      }
+    ]
+  },
+  {
+    "topic": {
+"identity": 19,
+"labels": [
+        "Topic"
+      ],
+"properties": {
+"volume": 264872,
+"role": "Gamma",
+"topic_id": 19,
+"density": 7873.866634622215
+      }
+    },
+    "nodes": [
+      {
+        "identity": 157,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 7,
+"file_id": 62
+        }
+      },
+      {
+        "identity": 112,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 6,
+"file_id": 110
+        }
+      },
+      {
+        "identity": 18,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 3,
+"file_id": 60
+        }
+      }
+    ]
+  },
+  {
+    "topic": {
+"identity": 23,
+"labels": [
+        "Topic"
+      ],
+"properties": {
+"volume": 7498850,
+"role": "Alpha",
+"topic_id": 2,
+"density": 46620.73329891264
+      }
+    },
+    "nodes": [
+      {
+        "identity": 184,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 5,
+"file_id": 8
+        }
+      },
+      {
+        "identity": 178,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 5,
+"file_id": 72
+        }
+      },
+      {
+        "identity": 172,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 3,
+"file_id": 70
+        }
+      },
+      {
+        "identity": 145,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 9,
+"file_id": 74
+        }
+      },
+      {
+        "identity": 125,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 1,
+"file_id": 12
+        }
+      },
+      {
+        "identity": 124,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 8,
+"file_id": 71
+        }
+      },
+      {
+        "identity": 114,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 6,
+"file_id": 5
+        }
+      },
+      {
+        "identity": 92,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 2,
+"file_id": 10
+        }
+      },
+      {
+        "identity": 78,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 9,
+"file_id": 77
+        }
+      },
+      {
+        "identity": 55,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 5,
+"file_id": 13
+        }
+      },
+      {
+        "identity": 22,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 7,
+"file_id": 75
+        }
+      }
+    ]
+  },
+  {
+    "topic": {
+"identity": 26,
+"labels": [
+        "Topic"
+      ],
+"properties": {
+"volume": 3794028,
+"role": "Alpha",
+"topic_id": 24,
+"density": 34855.8333626464
+      }
+    },
+    "nodes": [
+      {
+        "identity": 209,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 3,
+"file_id": 11
+        }
+      },
+      {
+        "identity": 200,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 8,
+"file_id": 54
+        }
+      },
+      {
+        "identity": 190,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 6,
+"file_id": 50
+        }
+      },
+      {
+        "identity": 168,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 8,
+"file_id": 47
+        }
+      },
+      {
+        "identity": 161,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 5,
+"file_id": 16
+        }
+      },
+      {
+        "identity": 113,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 2,
+"file_id": 55
+        }
+      },
+      {
+        "identity": 77,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 6,
+"file_id": 25
+        }
+      },
+      {
+        "identity": 62,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 2,
+"file_id": 89
+        }
+      },
+      {
+        "identity": 35,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 2,
+"file_id": 56
+        }
+      },
+      {
+        "identity": 25,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 9,
+"file_id": 90
+        }
+      }
+    ]
+  },
+  {
+    "topic": {
+"identity": 29,
+"labels": [
+        "Topic"
+      ],
+"properties": {
+"volume": 10034220,
+"role": "Beta",
+"topic_id": 12,
+"density": 105655.7001106143
+      }
+    },
+    "nodes": [
+      {
+        "identity": 221,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 4,
+"file_id": 17
+        }
+      },
+      {
+        "identity": 217,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 6,
+"file_id": 23
+        }
+      },
+      {
+        "identity": 213,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 5,
+"file_id": 19
+        }
+      },
+      {
+        "identity": 207,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 4,
+"file_id": 80
+        }
+      },
+      {
+        "identity": 196,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 3,
+"file_id": 78
+        }
+      },
+      {
+        "identity": 186,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 3,
+"file_id": 22
+        }
+      },
+      {
+        "identity": 164,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 4,
+"file_id": 57
+        }
+      },
+      {
+        "identity": 163,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 8,
+"file_id": 52
+        }
+      },
+      {
+        "identity": 102,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 5,
+"file_id": 53
+        }
+      },
+      {
+        "identity": 100,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 2,
+"file_id": 49
+        }
+      },
+      {
+        "identity": 93,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 7,
+"file_id": 83
+        }
+      },
+      {
+        "identity": 59,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 10,
+"file_id": 51
+        }
+      },
+      {
+        "identity": 57,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 5,
+"file_id": 27
+        }
+      },
+      {
+        "identity": 49,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 4,
+"file_id": 26
+        }
+      },
+      {
+        "identity": 47,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 3,
+"file_id": 88
+        }
+      },
+      {
+        "identity": 40,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 4,
+"file_id": 84
+        }
+      },
+      {
+        "identity": 28,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 7,
+"file_id": 31
+        }
+      }
+    ]
+  },
+  {
+    "topic": {
+"identity": 32,
+"labels": [
+        "Topic"
+      ],
+"properties": {
+"volume": 1143521,
+"role": "Gamma",
+"topic_id": 3,
+"density": 11415.500000089409
+      }
+    },
+    "nodes": [
+      {
+        "identity": 147,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 5,
+"file_id": 37
+        }
+      },
+      {
+        "identity": 136,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 3,
+"file_id": 39
+        }
+      },
+      {
+        "identity": 127,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 4,
+"file_id": 44
+        }
+      },
+      {
+        "identity": 104,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 3,
+"file_id": 41
+        }
+      },
+      {
+        "identity": 88,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 3,
+"file_id": 34
+        }
+      },
+      {
+        "identity": 81,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 5,
+"file_id": 46
+        }
+      },
+      {
+        "identity": 61,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 4,
+"file_id": 43
+        }
+      },
+      {
+        "identity": 50,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 2,
+"file_id": 38
+        }
+      },
+      {
+        "identity": 37,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 5,
+"file_id": 102
+        }
+      },
+      {
+        "identity": 31,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 7,
+"file_id": 45
+        }
+      }
+    ]
+  },
+  {
+    "topic": {
+"identity": 45,
+"labels": [
+        "Topic"
+      ],
+"properties": {
+"volume": 332449,
+"role": "Gamma",
+"topic_id": 21,
+"density": 6441.900005824865
+      }
+    },
+    "nodes": [
+      {
+        "identity": 219,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 3,
+"file_id": 97
+        }
+      },
+      {
+        "identity": 194,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 5,
+"file_id": 105
+        }
+      },
+      {
+        "identity": 109,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 7,
+"file_id": 6
+        }
+      },
+      {
+        "identity": 98,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 4,
+"file_id": 109
+        }
+      },
+      {
+        "identity": 44,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 3,
+"file_id": 91
+        }
+      }
+    ]
+  },
+  {
+    "topic": {
+"identity": 53,
+"labels": [
+        "Topic"
+      ],
+"properties": {
+"volume": 3055415,
+"role": "Alpha",
+"topic_id": 1,
+"density": 58781.09995573759
+      }
+    },
+    "nodes": [
+      {
+        "identity": 198,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 5,
+"file_id": 95
+        }
+      },
+      {
+        "identity": 174,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 5,
+"file_id": 87
+        }
+      },
+      {
+        "identity": 166,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 7,
+"file_id": 32
+        }
+      },
+      {
+        "identity": 155,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 5,
+"file_id": 85
+        }
+      },
+      {
+        "identity": 153,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 6,
+"file_id": 99
+        }
+      },
+      {
+        "identity": 151,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 4,
+"file_id": 94
+        }
+      },
+      {
+        "identity": 149,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 5,
+"file_id": 29
+        }
+      },
+      {
+        "identity": 106,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 4,
+"file_id": 86
+        }
+      },
+      {
+        "identity": 96,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 6,
+"file_id": 15
+        }
+      },
+      {
+        "identity": 66,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 5,
+"file_id": 79
+        }
+      },
+      {
+        "identity": 52,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 1,
+"file_id": 33
+        }
+      }
+    ]
+  },
+  {
+    "topic": {
+"identity": 64,
+"labels": [
+        "Topic"
+      ],
+"properties": {
+"volume": 646877,
+"role": "Gamma",
+"topic_id": 18,
+"density": 17116.316642597318
+      }
+    },
+    "nodes": [
+      {
+        "identity": 215,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 6,
+"file_id": 58
+        }
+      },
+      {
+        "identity": 202,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 4,
+"file_id": 65
+        }
+      },
+      {
+        "identity": 182,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 5,
+"file_id": 59
+        }
+      },
+      {
+        "identity": 97,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 1,
+"file_id": 63
+        }
+      },
+      {
+        "identity": 63,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 7,
+"file_id": 61
+        }
+      }
+    ]
+  },
+  {
+    "topic": {
+"identity": 71,
+"labels": [
+        "Topic"
+      ],
+"properties": {
+"volume": 7,
+"role": "Gamma",
+"topic_id": 14,
+"density": 5.050000190734863
+      }
+    },
+    "nodes": [
+      {
+        "identity": 70,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 7,
+"file_id": 111
+        }
+      }
+    ]
+  },
+  {
+    "topic": {
+"identity": 83,
+"labels": [
+        "Topic"
+      ],
+"properties": {
+"volume": 1352,
+"role": "Gamma",
+"topic_id": 25,
+"density": 231.7499997019768
+      }
+    },
+    "nodes": [
+      {
+        "identity": 82,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 8,
+"file_id": 42
+        }
+      }
+    ]
+  },
+  {
+    "topic": {
+"identity": 86,
+"labels": [
+        "Topic"
+      ],
+"properties": {
+"volume": 111926,
+"role": "Gamma",
+"topic_id": 7,
+"density": 22003.833399057392
+      }
+    },
+    "nodes": [
+      {
+        "identity": 211,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 2,
+"file_id": 20
+        }
+      },
+      {
+        "identity": 192,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 7,
+"file_id": 96
+        }
+      },
+      {
+        "identity": 159,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 7,
+"file_id": 98
+        }
+      },
+      {
+        "identity": 132,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 7,
+"file_id": 4
+        }
+      },
+      {
+        "identity": 85,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 6,
+"file_id": 81
+        }
+      }
+    ]
+  },
+  {
+    "topic": {
+"identity": 130,
+"labels": [
+        "Topic"
+      ],
+"properties": {
+"volume": 141050,
+"role": "Gamma",
+"topic_id": 16,
+"density": 11242.366624355314
+      }
+    },
+    "nodes": [
+      {
+        "identity": 134,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 6,
+"file_id": 68
+        }
+      },
+      {
+        "identity": 129,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 2,
+"file_id": 2
+        }
+      }
+    ]
+  },
+  {
+    "topic": {
+"identity": 143,
+"labels": [
+        "Topic"
+      ],
+"properties": {
+"volume": 112500,
+"role": "Gamma",
+"topic_id": 15,
+"density": 14737.68335723877
+      }
+    },
+    "nodes": [
+      {
+        "identity": 142,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 5,
+"file_id": 113
+        }
+      }
+    ]
+  },
+  {
+    "topic": {
+"identity": 205,
+"labels": [
+        "Topic"
+      ],
+"properties": {
+"volume": 242,
+"role": "Gamma",
+"topic_id": 8,
+"density": 417.23333817720413
+      }
+    },
+    "nodes": [
+      {
+        "identity": 204,
+        "labels": [
+          "File"
+        ],
+        "properties": {
+"size": 2,
+"file_id": 36
+        }
+      }
+    ]
+  }
+]
