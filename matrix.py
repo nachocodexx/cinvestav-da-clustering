@@ -31,15 +31,17 @@ if __name__ == '__main__':
         x        = producer['node_id']
         for (fnid,topic) in zipped:
             tnid = topic['node_id']
-            if(producer['role']=='Alpha'):
-                A[x][fnid] = 5
-                A[fnid][x] = 5
-            elif(producer['role']=='Beta'):
-                A[x][fnid] = 3
-                A[fnid][x] = 3 
-            else:
-                A[x][fnid] = 1
-                A[fnid][x] = 1 
+            #if(producer['role']=='Alpha'):
+            #    A[x][fnid] = 5
+             #   A[fnid][x] = 5
+            #elif(producer['role']=='Beta'):
+            #    A[x][fnid] = 3
+            #    A[fnid][x] = 3 
+            #else:
+            #    A[x][fnid] = 1
+            #    A[fnid][x] = 1 
+            A[x][fnid]    = 1
+            A[fnid][x]    = 1
             A[fnid][tnid] = 1
             A[tnid][fnid] = 1
     #plt.imshow(np.random.random((10,10)))
