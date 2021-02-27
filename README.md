@@ -52,23 +52,18 @@ columns = df.columns
 useless_cols = ["OPERATION_ID","USER_ID","TYPE","TOPIC_ID","TOPIC_ROLE","USER_ROLE","FILE_ID"]
 df.head(3)
 ```
-
-
-
-
 <div>
 <style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
+.dataframe tbody tr th:only-of-type {
+vertical-align: middle;
+}
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
+.dataframe tbody tr th {
+vertical-align: top;
+}
+.dataframe thead th {
+text-align: right;
+}
 </style>
 <table border="1" class="dataframe">
   <thead>
